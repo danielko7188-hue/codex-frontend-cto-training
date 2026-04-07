@@ -1,0 +1,159 @@
+[
+  {
+    "rank": 1,
+    "tier": "default",
+    "name": "Vercel",
+    "slug": "vercel",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\vercel\\DESIGN.md",
+    "best_for": [
+      "premium SaaS marketing",
+      "developer tools",
+      "AI product pages",
+      "polished dashboards"
+    ],
+    "why_fit": "Highest-confidence fit for minimalist, premium, professional product design."
+  },
+  {
+    "rank": 2,
+    "tier": "default",
+    "name": "Apple",
+    "slug": "apple",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\apple\\DESIGN.md",
+    "best_for": [
+      "premium landing pages",
+      "product launches",
+      "high-trust service brands"
+    ],
+    "why_fit": "Excellent for restraint, product focus, and disciplined hero composition."
+  },
+  {
+    "rank": 3,
+    "tier": "default",
+    "name": "Linear",
+    "slug": "linear.app",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\linear.app\\DESIGN.md",
+    "best_for": [
+      "internal apps",
+      "dashboards",
+      "dark workspaces"
+    ],
+    "why_fit": "Best dark-mode reference in the pack for calm, serious, premium product surfaces."
+  },
+  {
+    "rank": 4,
+    "tier": "default",
+    "name": "Notion",
+    "slug": "notion",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\notion\\DESIGN.md",
+    "best_for": [
+      "productivity apps",
+      "content-heavy interfaces",
+      "warm premium pages"
+    ],
+    "why_fit": "Warm minimalist option that stays professional and restrained."
+  },
+  {
+    "rank": 5,
+    "tier": "default",
+    "name": "Cal.com",
+    "slug": "cal",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\cal\\DESIGN.md",
+    "best_for": [
+      "scheduling flows",
+      "simple SaaS pages",
+      "premium service businesses"
+    ],
+    "why_fit": "Monochrome confidence with strong typography and low visual noise."
+  },
+  {
+    "rank": 6,
+    "tier": "default",
+    "name": "HashiCorp",
+    "slug": "hashicorp",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\hashicorp\\DESIGN.md",
+    "best_for": [
+      "infrastructure products",
+      "B2B apps",
+      "admin surfaces"
+    ],
+    "why_fit": "Enterprise seriousness and structural clarity without flashy styling."
+  },
+  {
+    "rank": 7,
+    "tier": "conditional",
+    "name": "Stripe",
+    "slug": "stripe",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\stripe\\DESIGN.md",
+    "best_for": [
+      "trust-heavy landing pages",
+      "payments",
+      "proof-rich B2B marketing"
+    ],
+    "why_fit": "Excellent premium credibility, but stronger brand flavor than the defaults."
+  },
+  {
+    "rank": 8,
+    "tier": "conditional",
+    "name": "Raycast",
+    "slug": "raycast",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\raycast\\DESIGN.md",
+    "best_for": [
+      "developer tools",
+      "desktop-style product pages",
+      "dark app shells"
+    ],
+    "why_fit": "Strong premium dark personality for tools, but less neutral than the defaults."
+  },
+  {
+    "rank": 9,
+    "tier": "conditional",
+    "name": "Resend",
+    "slug": "resend",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\resend\\DESIGN.md",
+    "best_for": [
+      "premium technical brands",
+      "launch pages",
+      "communications products"
+    ],
+    "why_fit": "Editorial premium darkness with more drama than the core defaults."
+  },
+  {
+    "rank": 10,
+    "tier": "conditional",
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\coinbase\\DESIGN.md",
+    "best_for": [
+      "trust-heavy businesses",
+      "finance",
+      "high-credibility service surfaces"
+    ],
+    "why_fit": "Institutional clarity and trust, but narrower category flavor."
+  },
+  {
+    "rank": 11,
+    "tier": "conditional",
+    "name": "Claude",
+    "slug": "claude",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\claude\\DESIGN.md",
+    "best_for": [
+      "AI products",
+      "editorial products",
+      "warm premium brands"
+    ],
+    "why_fit": "Warm and thoughtful, but not the first choice for operational dashboards."
+  },
+  {
+    "rank": 12,
+    "tier": "conditional",
+    "name": "Mintlify",
+    "slug": "mintlify",
+    "local_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\clones\\awesome-design-md\\design-md\\mintlify\\DESIGN.md",
+    "best_for": [
+      "docs",
+      "developer products",
+      "knowledge-heavy apps"
+    ],
+    "why_fit": "Very clean and disciplined, but more docs-oriented than brand-defining."
+  }
+]

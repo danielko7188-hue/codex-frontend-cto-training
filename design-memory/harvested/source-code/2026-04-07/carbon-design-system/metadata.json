@@ -1,0 +1,50 @@
+{
+  "name": "Carbon Design System",
+  "slug": "carbon-design-system",
+  "generated_at": "2026-04-07T00:39:36.2632647-07:00",
+  "bucket": "systems",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://carbondesignsystem.com/",
+    "title": null,
+    "content_length": 3127944,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/carbon-design-system/carbon",
+    "title": "GitHub - carbon-design-system/carbon: A design system built by IBM · GitHub",
+    "content_length": 574628,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Carbon Design System",
+    "slug": "carbon-design-system",
+    "docs_url": "https://carbondesignsystem.com/",
+    "repo_url": "https://github.com/carbon-design-system/carbon",
+    "bucket": "systems",
+    "focus": "large-scale system thinking",
+    "product_type": "enterprise design system",
+    "teaches": [
+      "token governance",
+      "complex component coverage",
+      "structured documentation habits",
+      "how a design system scales across teams"
+    ],
+    "inspect": [
+      "packages/react",
+      "packages/styles",
+      "packages/icons-react",
+      "packages/website"
+    ],
+    "avoid": [
+      "bringing enterprise weight into simple landing pages",
+      "assuming more components always means better product UX"
+    ],
+    "why_this_matters": "Useful for learning system rigor and large-scale frontend discipline.",
+    "reusable_lesson": "System quality comes from governance and consistency, not sheer component count."
+  }
+}

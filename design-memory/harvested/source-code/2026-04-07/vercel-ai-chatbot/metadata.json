@@ -1,0 +1,50 @@
+{
+  "name": "Vercel AI Chatbot",
+  "slug": "vercel-ai-chatbot",
+  "generated_at": "2026-04-07T01:39:20.6751822-07:00",
+  "bucket": "ai-interfaces",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://ai-sdk.dev/elements/overview",
+    "title": "AI Elements",
+    "content_length": 1564835,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/vercel/ai-chatbot",
+    "title": "GitHub - vercel/chatbot: A full-featured, hackable Next.js AI chatbot built by Vercel · GitHub",
+    "content_length": 319349,
+    "error": null
+  },
+  "clone_status": "exists",
+  "manifest_entry": {
+    "name": "Vercel AI Chatbot",
+    "slug": "vercel-ai-chatbot",
+    "docs_url": "https://ai-sdk.dev/elements/overview",
+    "repo_url": "https://github.com/vercel/ai-chatbot",
+    "bucket": "ai-interfaces",
+    "focus": "AI workspace and chat product patterns",
+    "product_type": "AI example app",
+    "teaches": [
+      "chat layout composition for real products",
+      "streaming response surfaces",
+      "AI workspace framing",
+      "how to integrate AI into a serious product shell"
+    ],
+    "inspect": [
+      "app",
+      "components",
+      "components/ui",
+      "lib"
+    ],
+    "avoid": [
+      "mistaking chat chrome for the whole workflow",
+      "copying AI aesthetics without matching the product job"
+    ],
+    "why_this_matters": "A practical official source for AI product UI that feels productized instead of prototype-like.",
+    "reusable_lesson": "AI chat works best when tied to a visible workflow and artifact surface."
+  }
+}

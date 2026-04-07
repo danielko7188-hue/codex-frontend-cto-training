@@ -1,0 +1,50 @@
+{
+  "name": "shadcn/ui",
+  "slug": "shadcn-ui",
+  "generated_at": "2026-04-07T00:39:33.3567762-07:00",
+  "bucket": "foundations",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://ui.shadcn.com/docs",
+    "title": "Introduction - shadcn/ui",
+    "content_length": 446592,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/shadcn-ui/ui",
+    "title": "GitHub - shadcn-ui/ui: A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code. · GitHub",
+    "content_length": 325498,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "shadcn/ui",
+    "slug": "shadcn-ui",
+    "docs_url": "https://ui.shadcn.com/docs",
+    "repo_url": "https://github.com/shadcn-ui/ui",
+    "bucket": "foundations",
+    "focus": "modern application composition",
+    "product_type": "component system and examples",
+    "teaches": [
+      "copyable product-grade component composition",
+      "practical theming and token usage",
+      "forms, tables, and dashboard building blocks",
+      "fast iteration patterns for real apps"
+    ],
+    "inspect": [
+      "apps/www/content/docs",
+      "apps/v4/registry",
+      "templates",
+      "packages/shadcn/src"
+    ],
+    "avoid": [
+      "treating copied components as a finished design direction",
+      "mixing too many unrelated variants just because they exist"
+    ],
+    "why_this_matters": "One of the fastest ways to learn how modern premium app UIs are assembled in practice.",
+    "reusable_lesson": "Strong product UI usually comes from disciplined composition more than fancy decoration."
+  }
+}

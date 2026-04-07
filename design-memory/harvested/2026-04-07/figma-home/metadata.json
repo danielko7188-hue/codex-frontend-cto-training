@@ -1,0 +1,12 @@
+{
+  "slug": "figma-home",
+  "name": "Figma Home",
+  "requested_url": "https://www.figma.com/",
+  "final_url": "https://www.figma.com/",
+  "page_title": "Figma: The Collaborative Interface Design Tool",
+  "bucket": "love",
+  "category": "website",
+  "fetched_at": "2026-04-07",
+  "fetch_error": null,
+  "screenshot_error": null
+}

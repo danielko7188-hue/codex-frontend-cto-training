@@ -1,0 +1,48 @@
+{
+  "name": "OpenAI Apps in ChatGPT",
+  "slug": "openai-apps-in-chatgpt",
+  "generated_at": "2026-04-07T01:39:21.3907914-07:00",
+  "bucket": "ai-interfaces",
+  "docs": {
+    "ok": false,
+    "status": "error",
+    "final_url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+    "title": null,
+    "content_length": 0,
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  },
+  "repo": {
+    "ok": false,
+    "status": "missing",
+    "final_url": null,
+    "title": null,
+    "content_length": 0,
+    "error": "No URL provided."
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "OpenAI Apps in ChatGPT",
+    "slug": "openai-apps-in-chatgpt",
+    "docs_url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+    "repo_url": "",
+    "bucket": "ai-interfaces",
+    "focus": "natural language plus interactive interfaces",
+    "product_type": "AI platform product announcement",
+    "teaches": [
+      "how apps can fit naturally into conversation",
+      "how AI products mix natural language and interactive UI",
+      "how ecosystems and extensible AI surfaces should be framed"
+    ],
+    "inspect": [
+      "platform framing",
+      "interaction model description",
+      "how conversational UI and interfaces are combined"
+    ],
+    "avoid": [
+      "treating announcement pages as complete UI systems",
+      "forcing every AI feature into a marketplace model"
+    ],
+    "why_this_matters": "Useful for understanding AI product UX that combines conversation with interactive interfaces.",
+    "reusable_lesson": "Conversation gets stronger when real interfaces appear at the right moments instead of everything staying as text."
+  }
+}

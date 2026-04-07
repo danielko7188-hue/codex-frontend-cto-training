@@ -1,0 +1,48 @@
+{
+  "name": "Claude Code",
+  "slug": "claude-code-product",
+  "generated_at": "2026-04-07T01:39:21.7526200-07:00",
+  "bucket": "ai-interfaces",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://www.anthropic.com/product/claude-code",
+    "title": "Claude Code | Anthropic&#x27;s agentic coding system \\ Anthropic",
+    "content_length": 132367,
+    "error": null
+  },
+  "repo": {
+    "ok": false,
+    "status": "missing",
+    "final_url": null,
+    "title": null,
+    "content_length": 0,
+    "error": "No URL provided."
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Claude Code",
+    "slug": "claude-code-product",
+    "docs_url": "https://www.anthropic.com/product/claude-code",
+    "repo_url": "",
+    "bucket": "ai-interfaces",
+    "focus": "developer-facing AI workflow UX",
+    "product_type": "AI coding tool product page",
+    "teaches": [
+      "developer-tool workflow framing",
+      "how to keep AI coding products task-oriented",
+      "serious tone and control-oriented positioning"
+    ],
+    "inspect": [
+      "workflow explanation",
+      "developer audience cues",
+      "task framing and trust language"
+    ],
+    "avoid": [
+      "making AI coding products feel magical but opaque",
+      "using too much concept and too little workflow clarity"
+    ],
+    "why_this_matters": "Useful for AI tools where trust, control, and task clarity matter more than decorative UI.",
+    "reusable_lesson": "AI power feels more trustworthy when the workflow is concrete and inspectable."
+  }
+}

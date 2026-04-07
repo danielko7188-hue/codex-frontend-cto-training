@@ -1,0 +1,50 @@
+{
+  "name": "Mantine Next App Template",
+  "slug": "mantine-next-app-template",
+  "generated_at": "2026-04-07T01:03:50.7257338-07:00",
+  "bucket": "templates",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://mantine.dev/getting-started/",
+    "title": "Getting started | Mantine",
+    "content_length": 331468,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/mantinedev/next-app-template",
+    "title": "GitHub - mantinedev/next-app-template: Mantine + Next.js app router template (7.0+) · GitHub",
+    "content_length": 308994,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Mantine Next App Template",
+    "slug": "mantine-next-app-template",
+    "docs_url": "https://mantine.dev/getting-started/",
+    "repo_url": "https://github.com/mantinedev/next-app-template",
+    "bucket": "templates",
+    "focus": "clean React and Next.js starter ergonomics",
+    "product_type": "Next.js app template",
+    "teaches": [
+      "clean starter structure for React and Next.js projects",
+      "Mantine theme wiring and styling ergonomics",
+      "maintainable defaults for teams moving quickly",
+      "how to start polished without overcomplicating the stack"
+    ],
+    "inspect": [
+      "theme setup",
+      "layout files",
+      "global styles",
+      "starter route structure"
+    ],
+    "avoid": [
+      "letting starter defaults define the entire product personality",
+      "keeping framework-demo aesthetics instead of shaping the interface intentionally"
+    ],
+    "why_this_matters": "A clean starter for products that want strong ergonomics and calm defaults.",
+    "reusable_lesson": "A simple starter is powerful when it stays easy to reshape into a product with real taste."
+  }
+}

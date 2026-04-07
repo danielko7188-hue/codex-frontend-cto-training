@@ -1,0 +1,12 @@
+{
+  "slug": "intercom-inbox",
+  "name": "Intercom Inbox",
+  "requested_url": "https://www.intercom.com/helpdesk/inbox",
+  "final_url": "https://www.intercom.com/helpdesk/inbox",
+  "page_title": "AI-powered inbox designed for faster and better customer support",
+  "bucket": "love",
+  "category": "app",
+  "fetched_at": "2026-04-07",
+  "fetch_error": null,
+  "screenshot_error": null
+}

@@ -1,0 +1,50 @@
+{
+  "name": "Next.js SaaS Starter",
+  "slug": "nextjs-saas-starter",
+  "generated_at": "2026-04-07T01:03:49.5795606-07:00",
+  "bucket": "templates",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://vercel.com/new/vercel/templates/next.js/next-js-saas-starter",
+    "title": "Next.js SaaS Starter Kit &amp; Templates – Vercel",
+    "content_length": 333779,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/nextjs/saas-starter",
+    "title": "GitHub - nextjs/saas-starter: Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. · GitHub",
+    "content_length": 299133,
+    "error": null
+  },
+  "clone_status": "exists",
+  "manifest_entry": {
+    "name": "Next.js SaaS Starter",
+    "slug": "nextjs-saas-starter",
+    "docs_url": "https://vercel.com/new/vercel/templates/next.js/next-js-saas-starter",
+    "repo_url": "https://github.com/nextjs/saas-starter",
+    "bucket": "templates",
+    "focus": "modern SaaS product skeleton",
+    "product_type": "SaaS starter kit",
+    "teaches": [
+      "how a serious SaaS starter organizes public and authenticated surfaces",
+      "billing, auth, and product shell boundaries",
+      "good default route structure for a real software business",
+      "how to begin with production-oriented scaffolding instead of toy structure"
+    ],
+    "inspect": [
+      "app structure",
+      "marketing versus app surfaces",
+      "dashboard routes",
+      "shared components and styles"
+    ],
+    "avoid": [
+      "assuming starter business logic equals your product strategy",
+      "keeping generic SaaS copy or layout choices after the initial setup"
+    ],
+    "why_this_matters": "Useful when a project needs a real SaaS foundation instead of an isolated page or demo.",
+    "reusable_lesson": "A good SaaS starter reduces setup drag, but the product still needs its own point of view."
+  }
+}

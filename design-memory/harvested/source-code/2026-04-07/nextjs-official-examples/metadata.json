@@ -1,0 +1,50 @@
+{
+  "name": "Next.js Official Examples",
+  "slug": "nextjs-official-examples",
+  "generated_at": "2026-04-07T01:03:50.0754871-07:00",
+  "bucket": "templates",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://nextjs.org/docs/app/api-reference/cli/create-next-app",
+    "title": "CLI: create-next-app | Next.js",
+    "content_length": 887643,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/vercel/next.js/tree/canary/examples",
+    "title": "next.js/examples at canary · vercel/next.js · GitHub",
+    "content_length": 463667,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Next.js Official Examples",
+    "slug": "nextjs-official-examples",
+    "docs_url": "https://nextjs.org/docs/app/api-reference/cli/create-next-app",
+    "repo_url": "https://github.com/vercel/next.js/tree/canary/examples",
+    "bucket": "templates",
+    "focus": "official pattern breadth",
+    "product_type": "framework examples collection",
+    "teaches": [
+      "many ways official Next.js features are structured",
+      "reference implementations for common framework patterns",
+      "starter breadth across routing, content, auth, and integrations",
+      "how to inspect framework-native examples before custom implementation"
+    ],
+    "inspect": [
+      "examples folder",
+      "blog starters",
+      "docs starters",
+      "radix-ui and app-router examples"
+    ],
+    "avoid": [
+      "reading every example instead of picking the ones relevant to the task",
+      "mistaking framework examples for finished product design"
+    ],
+    "why_this_matters": "A broad official reference bank for framework-native implementation patterns.",
+    "reusable_lesson": "Examples are strongest when used as focused pattern references, not as a giant pile to imitate."
+  }
+}

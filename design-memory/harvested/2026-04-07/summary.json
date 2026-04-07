@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Vercel Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\vercel-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\vercel-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Vercel Web Interface Guidelines",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\vercel-web-interface-guidelines.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\vercel-web-interface-guidelines",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Linear Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\linear-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\linear-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Linear UI Redesign",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\linear-ui-redesign.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\linear-ui-redesign",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Stripe Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\stripe-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\stripe-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Mercury Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\mercury-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\mercury-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Raycast Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\raycast-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\raycast-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Framer Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\framer-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\framer-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Apple Design",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\apple-design.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\apple-design",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Apple Design Resources",
+    "bucket": "neutral",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\neutral\\apple-design-resources.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\apple-design-resources",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Shopify Polaris",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\shopify-polaris.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\shopify-polaris",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Intercom Inbox",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\intercom-inbox.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\intercom-inbox",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Cal.com Teams",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\cal-teams.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\cal-teams",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Ramp Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\ramp-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\ramp-home",
+    "status": "partial",
+    "fetch_error": "Response status code does not indicate success: 404 (Not Found).",
+    "screenshot_error": null
+  },
+  {
+    "name": "Figma Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\figma-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\figma-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Notion Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\notion-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\notion-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Notion AI",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\notion-ai.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\notion-ai",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "ChatGPT Overview",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\chatgpt-overview.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\chatgpt-overview",
+    "status": "partial",
+    "fetch_error": "Response status code does not indicate success: 403 (Forbidden).",
+    "screenshot_error": null
+  },
+  {
+    "name": "Apps in ChatGPT",
+    "bucket": "neutral",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\neutral\\apps-in-chatgpt.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\apps-in-chatgpt",
+    "status": "partial",
+    "fetch_error": "Response status code does not indicate success: 403 (Forbidden).",
+    "screenshot_error": null
+  },
+  {
+    "name": "OpenAI Codex",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\openai-codex.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\openai-codex",
+    "status": "partial",
+    "fetch_error": "Response status code does not indicate success: 403 (Forbidden).",
+    "screenshot_error": null
+  },
+  {
+    "name": "Claude Code",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\claude-code.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\claude-code",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Cursor Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\cursor-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\cursor-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "v0 Home",
+    "bucket": "love",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\love\\v0-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\v0-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Lovable Home",
+    "bucket": "neutral",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\neutral\\lovable-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\lovable-home",
+    "status": "ok",
+    "fetch_error": null,
+    "screenshot_error": null
+  },
+  {
+    "name": "Perplexity Home",
+    "bucket": "neutral",
+    "file": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\reference-bank\\neutral\\perplexity-home.md",
+    "artifact_dir": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\2026-04-07\\perplexity-home",
+    "status": "partial",
+    "fetch_error": "Response status code does not indicate success: 403 (Forbidden).",
+    "screenshot_error": null
+  }
+]

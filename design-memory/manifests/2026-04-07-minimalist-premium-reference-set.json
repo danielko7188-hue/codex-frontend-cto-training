@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Vercel Home",
+    "slug": "vercel-home",
+    "url": "https://vercel.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "developer platform marketing",
+    "strong": "Restrained, premium, technically credible, and very intentional.",
+    "weak": "Can feel too austere for brands that need more warmth.",
+    "borrow": [
+      "typography hierarchy",
+      "section pacing",
+      "restraint in accent color use",
+      "clean CTA hierarchy"
+    ],
+    "avoid": [
+      "copying the exact coldness for warmer brands",
+      "copying brand-specific assets"
+    ],
+    "why_this_matters": "A high-signal example of premium product marketing through discipline rather than decoration.",
+    "reusable_lesson": "Better hierarchy and spacing beat extra visual effects."
+  },
+  {
+    "name": "Vercel Web Interface Guidelines",
+    "slug": "vercel-web-interface-guidelines",
+    "url": "https://vercel.com/design/guidelines",
+    "bucket": "love",
+    "category": "design-system",
+    "product_type": "web UI guidelines",
+    "strong": "Practical quality guidance for polished, fast, and accessible interfaces.",
+    "weak": "Not a brand reference by itself; needs translation into a product context.",
+    "borrow": [
+      "input sizing rules",
+      "accessibility basics",
+      "layout discipline",
+      "animation restraint"
+    ],
+    "avoid": [
+      "treating guidelines as a finished visual direction"
+    ],
+    "why_this_matters": "It encodes quality standards that can improve almost any modern web interface.",
+    "reusable_lesson": "Good design quality is often systemized through small rules, not big visual flourishes."
+  },
+  {
+    "name": "Linear Home",
+    "slug": "linear-home",
+    "url": "https://linear.app/",
+    "bucket": "love",
+    "category": "app",
+    "product_type": "SaaS marketing",
+    "strong": "Calm, premium, product-led, and highly controlled.",
+    "weak": "Too much imitation can make other products feel colder than necessary.",
+    "borrow": [
+      "product storytelling",
+      "visual restraint",
+      "clean rails and headers",
+      "serious typography"
+    ],
+    "avoid": [
+      "copying the exact mood when the product needs more human warmth"
+    ],
+    "why_this_matters": "A benchmark for premium product marketing and operational product feel.",
+    "reusable_lesson": "Premium product surfaces feel quiet and controlled, not busy."
+  },
+  {
+    "name": "Linear UI Redesign",
+    "slug": "linear-ui-redesign",
+    "url": "https://linear.app/now/how-we-redesigned-the-linear-ui",
+    "bucket": "love",
+    "category": "app",
+    "product_type": "UI redesign case study",
+    "strong": "Explains how strong teams test hierarchy, chrome, and contrast before shipping.",
+    "weak": "It is process-heavy rather than a direct visual reference.",
+    "borrow": [
+      "stress testing views",
+      "sidebar and header consistency",
+      "contrast refinement",
+      "feature-flagged design rollout"
+    ],
+    "avoid": [
+      "treating redesign as purely cosmetic"
+    ],
+    "why_this_matters": "Shows a mature product-design process for app-wide UX improvements.",
+    "reusable_lesson": "Strong redesigns define behavior and hierarchy across the system, not just one screen."
+  },
+  {
+    "name": "Stripe Home",
+    "slug": "stripe-home",
+    "url": "https://stripe.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "fintech platform marketing",
+    "strong": "Confident, premium, and exceptionally strong at proof and scale signals.",
+    "weak": "The visual system is category-specific and can overpower simpler products if copied too literally.",
+    "borrow": [
+      "proof placement",
+      "enterprise credibility",
+      "scale storytelling",
+      "structured content rhythm"
+    ],
+    "avoid": [
+      "using fintech-specific visual cues in unrelated products",
+      "overcomplicating smaller product pages"
+    ],
+    "why_this_matters": "A world-class example of high-trust conversion design.",
+    "reusable_lesson": "Strong proof and strong hierarchy can feel premium without feeling salesy."
+  },
+  {
+    "name": "Mercury Home",
+    "slug": "mercury-home",
+    "url": "https://mercury.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "fintech marketing",
+    "strong": "Quiet confidence, premium trust, and polished clarity.",
+    "weak": "Some trust patterns are tuned for finance rather than general SaaS or services.",
+    "borrow": [
+      "calm authority",
+      "trust-building section sequencing",
+      "clean CTA structure",
+      "controlled color use"
+    ],
+    "avoid": [
+      "finance-specific cues when the product is not financial"
+    ],
+    "why_this_matters": "Shows how to feel premium and safe at the same time.",
+    "reusable_lesson": "Premium trust comes from polish and clarity working together."
+  },
+  {
+    "name": "Raycast Home",
+    "slug": "raycast-home",
+    "url": "https://www.raycast.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "app marketing",
+    "strong": "Expressive while still feeling premium and product-led.",
+    "weak": "Can drift toward richer visual storytelling than some enterprise or service products need.",
+    "borrow": [
+      "expressive product presentation",
+      "controlled gradients",
+      "storytelling with screenshots"
+    ],
+    "avoid": [
+      "adding visual richness without enough product clarity"
+    ],
+    "why_this_matters": "Useful when a product needs more personality without falling into noise.",
+    "reusable_lesson": "You can add energy without sacrificing control if hierarchy stays strong."
+  },
+  {
+    "name": "Framer Home",
+    "slug": "framer-home",
+    "url": "https://www.framer.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "design tool marketing",
+    "strong": "Modern, designer-facing, and strong at visual pacing.",
+    "weak": "Its visual richness can be too much for more utilitarian products.",
+    "borrow": [
+      "section transitions",
+      "modern composition",
+      "visual pacing"
+    ],
+    "avoid": [
+      "over-designing simple business products"
+    ],
+    "why_this_matters": "A strong reference for more design-forward landing pages.",
+    "reusable_lesson": "Visual richness only works when composition remains disciplined."
+  },
+  {
+    "name": "Apple Design",
+    "slug": "apple-design",
+    "url": "https://developer.apple.com/design/",
+    "bucket": "love",
+    "category": "design-system",
+    "product_type": "platform design guidance",
+    "strong": "Canonical clarity, restraint, and platform-level polish.",
+    "weak": "Needs adaptation outside the Apple product context.",
+    "borrow": [
+      "clarity of interface purpose",
+      "restraint",
+      "high standards for legibility"
+    ],
+    "avoid": [
+      "blindly applying Apple-specific conventions to non-Apple products"
+    ],
+    "why_this_matters": "A timeless reference for high-quality interface judgment.",
+    "reusable_lesson": "Clarity and polish are often the result of subtraction, not addition."
+  },
+  {
+    "name": "Apple Design Resources",
+    "slug": "apple-design-resources",
+    "url": "https://developer.apple.com/design/resources/",
+    "bucket": "neutral",
+    "category": "design-system",
+    "product_type": "platform resources",
+    "strong": "Helpful for platform-specific fidelity.",
+    "weak": "More resource-oriented than broad visual inspiration.",
+    "borrow": [
+      "platform fidelity",
+      "system consistency"
+    ],
+    "avoid": [
+      "using licensed resources outside their intended context"
+    ],
+    "why_this_matters": "Useful when designing Apple-platform experiences with higher native fidelity.",
+    "reusable_lesson": "Platform resources are valuable when used with respect for context and license."
+  },
+  {
+    "name": "Shopify Polaris",
+    "slug": "shopify-polaris",
+    "url": "https://polaris.shopify.com/",
+    "bucket": "love",
+    "category": "design-system",
+    "product_type": "admin/product design system",
+    "strong": "Operational clarity, strong system thinking, and practical component discipline.",
+    "weak": "A system reference, not automatically a premium marketing reference.",
+    "borrow": [
+      "admin UX clarity",
+      "component consistency",
+      "product-system discipline"
+    ],
+    "avoid": [
+      "treating a design system as a full brand direction"
+    ],
+    "why_this_matters": "Excellent for improving serious product surfaces and dashboards.",
+    "reusable_lesson": "Great admin UX comes from consistency and clarity more than decoration."
+  },
+  {
+    "name": "Intercom Inbox",
+    "slug": "intercom-inbox",
+    "url": "https://www.intercom.com/helpdesk/inbox",
+    "bucket": "love",
+    "category": "app",
+    "product_type": "support workspace product page",
+    "strong": "Strong shared-workspace logic and communication-centered UX.",
+    "weak": "Can feel specific to support workflows if copied too literally.",
+    "borrow": [
+      "queue plus detail workspace model",
+      "shared-work ownership",
+      "supporting inspector patterns"
+    ],
+    "avoid": [
+      "bringing support-specific interaction patterns into unrelated products"
+    ],
+    "why_this_matters": "A strong reference for any app that mixes queue, conversation, and action.",
+    "reusable_lesson": "Shared work feels faster when state, ownership, and actions live together."
+  },
+  {
+    "name": "Cal.com Teams",
+    "slug": "cal-teams",
+    "url": "https://cal.com/teams",
+    "bucket": "love",
+    "category": "app",
+    "product_type": "scheduling workspace product page",
+    "strong": "Clear scheduling logic and strong next-step clarity.",
+    "weak": "Scheduling-specific patterns do not transfer everywhere.",
+    "borrow": [
+      "booking clarity",
+      "routing confidence",
+      "clear scheduling outcomes"
+    ],
+    "avoid": [
+      "forcing calendar-first patterns into non-scheduling experiences"
+    ],
+    "why_this_matters": "Useful for products that route people toward appointments or meetings.",
+    "reusable_lesson": "Booking UX improves when the user understands who, why, and what happens next."
+  },
+  {
+    "name": "Ramp Home",
+    "slug": "ramp-home",
+    "url": "https://ramp.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "fintech and operations marketing",
+    "strong": "Strong trust, clear value articulation, and operational seriousness.",
+    "weak": "Some visual language may be too finance-specific for other categories.",
+    "borrow": [
+      "trust signals",
+      "rule and policy seriousness",
+      "operational clarity"
+    ],
+    "avoid": [
+      "carrying over finance-specific signals into unrelated products"
+    ],
+    "why_this_matters": "Helpful for products that need to feel controlled, serious, and trustworthy.",
+    "reusable_lesson": "Operational credibility should be visible in the UI, not hidden behind marketing gloss."
+  },
+  {
+    "name": "Figma Home",
+    "slug": "figma-home",
+    "url": "https://www.figma.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "design tool marketing",
+    "strong": "Excellent product storytelling and broad design maturity.",
+    "weak": "The brand is stronger and more colorful than some minimalist products want.",
+    "borrow": [
+      "product narrative",
+      "tool demonstration",
+      "feature explanation pacing"
+    ],
+    "avoid": [
+      "borrowing visual loudness when a quieter system is needed"
+    ],
+    "why_this_matters": "Useful when a product needs to explain a rich workflow clearly.",
+    "reusable_lesson": "Complex products feel easier when the story is paced well."
+  },
+  {
+    "name": "Notion Home",
+    "slug": "notion-home",
+    "url": "https://www.notion.com/",
+    "bucket": "love",
+    "category": "website",
+    "product_type": "workspace product marketing",
+    "strong": "Friendly, calm, and broad without losing clarity.",
+    "weak": "Can feel softer and more editorial than tighter premium systems.",
+    "borrow": [
+      "content clarity",
+      "friendly restraint",
+      "broad-audience accessibility"
+    ],
+    "avoid": [
+      "softening a product that needs more authority or density"
+    ],
+    "why_this_matters": "A useful reference for making complex products feel approachable.",
+    "reusable_lesson": "Approachability can coexist with polish when the layout stays disciplined."
+  },
+  {
+    "name": "Notion AI",
+    "slug": "notion-ai",
+    "url": "https://www.notion.com/product/ai",
+    "bucket": "love",
+    "category": "ai",
+    "product_type": "AI product marketing",
+    "strong": "AI positioned as a product capability instead of generic hype.",
+    "weak": "The tone may be too broad for more technical AI products.",
+    "borrow": [
+      "AI feature framing",
+      "capability clarity",
+      "integration into product narrative"
+    ],
+    "avoid": [
+      "vague AI claims with no workflow context"
+    ],
+    "why_this_matters": "A good model for AI positioning that feels useful instead of gimmicky.",
+    "reusable_lesson": "AI pages feel stronger when the capability is grounded in real workflows."
+  },
+  {
+    "name": "ChatGPT Overview",
+    "slug": "chatgpt-overview",
+    "url": "https://chatgpt.com/overview",
+    "bucket": "love",
+    "category": "ai",
+    "product_type": "AI assistant marketing",
+    "strong": "Clear capability framing and broad consumer-to-pro positioning.",
+    "weak": "Some patterns are tuned for a very broad audience.",
+    "borrow": [
+      "AI product framing",
+      "capability hierarchy",
+      "clear entry points"
+    ],
+    "avoid": [
+      "generic assistant copy without clear value to the target user"
+    ],
+    "why_this_matters": "Useful for understanding AI product positioning at scale.",
+    "reusable_lesson": "Broad AI products still need very clear entry points and capability hierarchy."
+  },
+  {
+    "name": "Apps in ChatGPT",
+    "slug": "apps-in-chatgpt",
+    "url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+    "bucket": "neutral",
+    "category": "ai",
+    "product_type": "AI platform product announcement",
+    "strong": "Good for understanding ecosystem and platform UX framing.",
+    "weak": "Article-style reference more than a canonical visual benchmark.",
+    "borrow": [
+      "platform framing",
+      "ecosystem positioning"
+    ],
+    "avoid": [
+      "treating announcement pages as complete product-style references"
+    ],
+    "why_this_matters": "Useful when positioning extensible AI platforms rather than single-use tools.",
+    "reusable_lesson": "Platform experiences need a different narrative than standalone product pages."
+  },
+  {
+    "name": "OpenAI Codex",
+    "slug": "openai-codex",
+    "url": "https://openai.com/codex",
+    "bucket": "love",
+    "category": "ai",
+    "product_type": "AI developer tool marketing",
+    "strong": "Clear multi-surface product framing and strong value articulation for builders.",
+    "weak": "Builder-focused tone may be too technical for broader products.",
+    "borrow": [
+      "multi-surface product explanation",
+      "builder audience clarity",
+      "agent workflow framing"
+    ],
+    "avoid": [
+      "over-technical framing for non-technical audiences"
+    ],
+    "why_this_matters": "A strong reference for AI products aimed at builders and technical teams.",
+    "reusable_lesson": "AI builder products feel stronger when the workflow is explicit, not abstract."
+  },
+  {
+    "name": "Claude Code",
+    "slug": "claude-code",
+    "url": "https://www.anthropic.com/product/claude-code",
+    "bucket": "love",
+    "category": "ai",
+    "product_type": "AI developer tool marketing",
+    "strong": "Focused positioning for an AI coding workflow.",
+    "weak": "Some pages in this category can lean heavy on concept over concrete UI evidence.",
+    "borrow": [
+      "developer-tool framing",
+      "clear workflow emphasis"
+    ],
+    "avoid": [
+      "too much abstraction without concrete UI or workflow support"
+    ],
+    "why_this_matters": "Useful for understanding how serious AI developer tools present themselves.",
+    "reusable_lesson": "Developer-facing AI products need workflow specificity, not just capability claims."
+  },
+  {
+    "name": "Cursor Home",
+    "slug": "cursor-home",
+    "url": "https://cursor.com/",
+    "bucket": "love",
+    "category": "ai",
+    "product_type": "AI IDE marketing",
+    "strong": "Strong builder positioning and product-led AI framing.",
+    "weak": "Can inherit category sameness if interpreted too generically.",
+    "borrow": [
+      "developer audience clarity",
+      "AI-assisted workflow framing",
+      "product-led messaging"
+    ],
+    "avoid": [
+      "copying category tropes instead of product-specific clarity"
+    ],
+    "why_this_matters": "Relevant for AI developer product references.",
+    "reusable_lesson": "Even hot AI categories need product-specific clarity to avoid sameness."
+  },
+  {
+    "name": "v0 Home",
+    "slug": "v0-home",
+    "url": "https://v0.dev/",
+    "bucket": "love",
+    "category": "ai",
+    "product_type": "AI design and coding tool marketing",
+    "strong": "Clear prompt-to-output positioning for a design-forward AI tool.",
+    "weak": "Some AI-builder aesthetics can drift toward category sameness.",
+    "borrow": [
+      "prompt-driven product explanation",
+      "fast outcome framing",
+      "builder-oriented entry points"
+    ],
+    "avoid": [
+      "generic AI styling without differentiated product proof"
+    ],
+    "why_this_matters": "Relevant for AI tools that blend design, code, and fast iteration.",
+    "reusable_lesson": "AI creation tools need concrete outcome framing more than generic intelligence claims."
+  },
+  {
+    "name": "Lovable Home",
+    "slug": "lovable-home",
+    "url": "https://lovable.dev/",
+    "bucket": "neutral",
+    "category": "ai",
+    "product_type": "AI app-builder marketing",
+    "strong": "Clear promise and accessible builder positioning.",
+    "weak": "This category often risks visual sameness and hype if not handled carefully.",
+    "borrow": [
+      "accessible builder onboarding",
+      "clear promise articulation"
+    ],
+    "avoid": [
+      "category-level hype with weak proof"
+    ],
+    "why_this_matters": "Useful for understanding how AI app-builders position themselves to broad audiences.",
+    "reusable_lesson": "AI builder products need stronger proof to avoid feeling interchangeable."
+  },
+  {
+    "name": "Perplexity Home",
+    "slug": "perplexity-home",
+    "url": "https://www.perplexity.ai/",
+    "bucket": "neutral",
+    "category": "ai",
+    "product_type": "AI search product",
+    "strong": "Clear category leadership signal and strong mainstream AI recognition.",
+    "weak": "The homepage itself may reveal less visual detail through scraping than other references.",
+    "borrow": [
+      "AI search product positioning"
+    ],
+    "avoid": [
+      "using a thin scrape as if it were a full visual reference"
+    ],
+    "why_this_matters": "Useful as an AI category reference even when harvest depth is lighter.",
+    "reusable_lesson": "Not every strong product produces equally rich scrape artifacts; depth of evidence matters."
+  }
+]

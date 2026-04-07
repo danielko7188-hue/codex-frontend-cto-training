@@ -1,0 +1,12 @@
+{
+  "slug": "cal-teams",
+  "name": "Cal.com Teams",
+  "requested_url": "https://cal.com/teams",
+  "final_url": "https://cal.com/teams",
+  "page_title": "Cal.com | Teams",
+  "bucket": "love",
+  "category": "app",
+  "fetched_at": "2026-04-07",
+  "fetch_error": null,
+  "screenshot_error": null
+}

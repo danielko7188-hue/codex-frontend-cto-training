@@ -1,0 +1,30 @@
+[
+  {
+    "name": "awesome-design-md",
+    "slug": "awesome-design-md",
+    "docs_url": "https://github.com/VoltAgent/awesome-design-md",
+    "repo_url": "https://github.com/VoltAgent/awesome-design-md.git",
+    "bucket": "design-md-packs",
+    "focus": "agent-readable design systems derived from real products",
+    "product_type": "DESIGN.md collection",
+    "teaches": [
+      "how premium websites can be translated into DESIGN.md instructions for agents",
+      "how to express visual systems in plain English and markdown",
+      "how to reuse style direction across threads and projects without screenshots",
+      "how DESIGN.md can complement AGENTS.md in an agent-driven workflow"
+    ],
+    "inspect": [
+      "design-md directory",
+      "README usage instructions",
+      "individual product DESIGN.md files",
+      "preview.html and preview-dark.html patterns"
+    ],
+    "avoid": [
+      "treating one borrowed DESIGN.md as perfect for every product",
+      "copying brand-specific choices without adapting them to the founder taste profile",
+      "confusing inspiration with permission to clone a product"
+    ],
+    "why_this_matters": "A strong bridge between visual references and agent-executable design direction.",
+    "reusable_lesson": "A good DESIGN.md can carry design intent across projects, but it works best when adapted to the product and founder taste."
+  }
+]

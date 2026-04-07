@@ -1,0 +1,49 @@
+{
+  "name": "Mantine",
+  "slug": "mantine",
+  "generated_at": "2026-04-07T00:39:34.4068427-07:00",
+  "bucket": "foundations",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://mantine.dev/getting-started/",
+    "title": "Getting started | Mantine",
+    "content_length": 331468,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/mantinedev/mantine",
+    "title": "GitHub - mantinedev/mantine: A fully featured React components library · GitHub",
+    "content_length": 354033,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Mantine",
+    "slug": "mantine",
+    "docs_url": "https://mantine.dev/getting-started/",
+    "repo_url": "https://github.com/mantinedev/mantine",
+    "bucket": "foundations",
+    "focus": "rapid product UI with good defaults",
+    "product_type": "component library and hooks",
+    "teaches": [
+      "cohesive component APIs",
+      "theme ergonomics",
+      "practical form and layout patterns",
+      "how to move fast without turning the UI into chaos"
+    ],
+    "inspect": [
+      "packages/@mantine/core",
+      "apps/mantine.dev/src/pages",
+      "packages/@mantine/form"
+    ],
+    "avoid": [
+      "letting default components define the whole product personality",
+      "using convenience as an excuse for weak hierarchy"
+    ],
+    "why_this_matters": "Useful for learning how a productive design system stays coherent across many components.",
+    "reusable_lesson": "Fast shipping is compatible with good frontend structure when the system is disciplined."
+  }
+}

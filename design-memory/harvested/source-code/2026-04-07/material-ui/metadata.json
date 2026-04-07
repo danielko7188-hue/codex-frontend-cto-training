@@ -1,0 +1,49 @@
+{
+  "name": "Material UI",
+  "slug": "material-ui",
+  "generated_at": "2026-04-07T00:39:36.9548377-07:00",
+  "bucket": "systems",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://mui.com/material-ui/",
+    "title": "Material UI: React components that implement Material Design",
+    "content_length": 484754,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/mui/material-ui",
+    "title": "GitHub - mui/material-ui: Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever. · GitHub",
+    "content_length": 430487,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Material UI",
+    "slug": "material-ui",
+    "docs_url": "https://mui.com/material-ui/",
+    "repo_url": "https://github.com/mui/material-ui",
+    "bucket": "systems",
+    "focus": "broad component coverage and theming",
+    "product_type": "component library and design system",
+    "teaches": [
+      "theme architecture at scale",
+      "broad component API design",
+      "data-heavy admin surfaces",
+      "how a mature system handles customization"
+    ],
+    "inspect": [
+      "packages/mui-material/src",
+      "packages/mui-system/src",
+      "docs/data/material"
+    ],
+    "avoid": [
+      "leaving the UI looking like untouched defaults",
+      "using design-system breadth as a substitute for product judgment"
+    ],
+    "why_this_matters": "A useful reference for large component coverage, theming depth, and admin-heavy interfaces.",
+    "reusable_lesson": "A broad system is only premium when the product team shapes it intentionally."
+  }
+}

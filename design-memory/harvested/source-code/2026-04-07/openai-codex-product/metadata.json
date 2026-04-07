@@ -1,0 +1,48 @@
+{
+  "name": "OpenAI Codex",
+  "slug": "openai-codex-product",
+  "generated_at": "2026-04-07T01:39:21.5099062-07:00",
+  "bucket": "ai-interfaces",
+  "docs": {
+    "ok": false,
+    "status": "error",
+    "final_url": "https://openai.com/codex",
+    "title": null,
+    "content_length": 0,
+    "error": "Response status code does not indicate success: 403 (Forbidden)."
+  },
+  "repo": {
+    "ok": false,
+    "status": "missing",
+    "final_url": null,
+    "title": null,
+    "content_length": 0,
+    "error": "No URL provided."
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "OpenAI Codex",
+    "slug": "openai-codex-product",
+    "docs_url": "https://openai.com/codex",
+    "repo_url": "",
+    "bucket": "ai-interfaces",
+    "focus": "agent workflows and parallel task UX",
+    "product_type": "AI developer tool product page",
+    "teaches": [
+      "agent workflow framing",
+      "builder-facing AI product positioning",
+      "how to explain multi-step AI work clearly"
+    ],
+    "inspect": [
+      "workflow framing",
+      "task surface language",
+      "builder audience clarity"
+    ],
+    "avoid": [
+      "using overly technical framing for general audiences",
+      "hiding agent behavior behind abstract marketing copy"
+    ],
+    "why_this_matters": "Useful when designing AI products that behave more like workers than chatbots.",
+    "reusable_lesson": "Agent UX should explain workflow and outputs clearly, not just the intelligence behind them."
+  }
+}

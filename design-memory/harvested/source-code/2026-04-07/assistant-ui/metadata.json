@@ -1,0 +1,50 @@
+{
+  "name": "assistant-ui",
+  "slug": "assistant-ui",
+  "generated_at": "2026-04-07T01:39:21.2192665-07:00",
+  "bucket": "ai-interfaces",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://www.assistant-ui.com/docs",
+    "title": "Introduction | assistant-ui",
+    "content_length": 228098,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/assistant-ui/assistant-ui",
+    "title": "GitHub - assistant-ui/assistant-ui: Typescript/React Library for AI Chat💬🚀 · GitHub",
+    "content_length": 354649,
+    "error": null
+  },
+  "clone_status": "exists",
+  "manifest_entry": {
+    "name": "assistant-ui",
+    "slug": "assistant-ui",
+    "docs_url": "https://www.assistant-ui.com/docs",
+    "repo_url": "https://github.com/assistant-ui/assistant-ui",
+    "bucket": "ai-interfaces",
+    "focus": "tool-call UX and structured AI chat",
+    "product_type": "AI interface library",
+    "teaches": [
+      "message rendering patterns",
+      "tool-call and assistant interaction surfaces",
+      "state management for AI chat",
+      "how to make AI interactions feel structured and enterprise-grade"
+    ],
+    "inspect": [
+      "packages/react",
+      "packages/react-ui",
+      "apps/docs",
+      "examples"
+    ],
+    "avoid": [
+      "over-designing chat UI while neglecting the surrounding product",
+      "assuming a chat library defines the full UX strategy"
+    ],
+    "why_this_matters": "Strong source for the mechanics of serious AI chat and tool interaction patterns.",
+    "reusable_lesson": "AI credibility increases when messages, tools, and outputs belong to one coherent system."
+  }
+}

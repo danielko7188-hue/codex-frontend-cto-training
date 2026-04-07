@@ -1,0 +1,12 @@
+{
+  "slug": "perplexity-home",
+  "name": "Perplexity Home",
+  "requested_url": "https://www.perplexity.ai/",
+  "final_url": "https://www.perplexity.ai/",
+  "page_title": "Unknown",
+  "bucket": "neutral",
+  "category": "ai",
+  "fetched_at": "2026-04-07",
+  "fetch_error": "Response status code does not indicate success: 403 (Forbidden).",
+  "screenshot_error": null
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "name": "shadcn/ui",
+    "slug": "shadcn-ui",
+    "docs_url": "https://ui.shadcn.com/docs",
+    "repo_url": "https://github.com/shadcn-ui/ui",
+    "bucket": "foundations",
+    "focus": "modern application composition",
+    "product_type": "component system and examples",
+    "teaches": [
+      "copyable product-grade component composition",
+      "practical theming and token usage",
+      "forms, tables, and dashboard building blocks",
+      "fast iteration patterns for real apps"
+    ],
+    "inspect": [
+      "apps/www/content/docs",
+      "apps/v4/registry",
+      "templates",
+      "packages/shadcn/src"
+    ],
+    "avoid": [
+      "treating copied components as a finished design direction",
+      "mixing too many unrelated variants just because they exist"
+    ],
+    "why_this_matters": "One of the fastest ways to learn how modern premium app UIs are assembled in practice.",
+    "reusable_lesson": "Strong product UI usually comes from disciplined composition more than fancy decoration."
+  },
+  {
+    "name": "Radix Primitives",
+    "slug": "radix-primitives",
+    "docs_url": "https://www.radix-ui.com/",
+    "repo_url": "https://github.com/radix-ui/primitives",
+    "bucket": "foundations",
+    "focus": "accessible interaction foundations",
+    "product_type": "headless UI primitives",
+    "teaches": [
+      "keyboard-safe interaction models",
+      "focus management and state handling",
+      "composable primitives for serious product UX",
+      "how strong accessibility infrastructure supports premium UI"
+    ],
+    "inspect": [
+      "packages/react",
+      "packages/react/dialog",
+      "packages/react/dropdown-menu",
+      "packages/react/select"
+    ],
+    "avoid": [
+      "assuming headless primitives provide a visual direction by themselves",
+      "overcomplicating simple product needs with unnecessary abstraction"
+    ],
+    "why_this_matters": "A strong way to learn the interaction discipline behind polished interfaces.",
+    "reusable_lesson": "Premium-feeling UI still needs rigorous keyboard, focus, and state behavior underneath."
+  },
+  {
+    "name": "Mantine",
+    "slug": "mantine",
+    "docs_url": "https://mantine.dev/getting-started/",
+    "repo_url": "https://github.com/mantinedev/mantine",
+    "bucket": "foundations",
+    "focus": "rapid product UI with good defaults",
+    "product_type": "component library and hooks",
+    "teaches": [
+      "cohesive component APIs",
+      "theme ergonomics",
+      "practical form and layout patterns",
+      "how to move fast without turning the UI into chaos"
+    ],
+    "inspect": [
+      "packages/@mantine/core",
+      "apps/mantine.dev/src/pages",
+      "packages/@mantine/form"
+    ],
+    "avoid": [
+      "letting default components define the whole product personality",
+      "using convenience as an excuse for weak hierarchy"
+    ],
+    "why_this_matters": "Useful for learning how a productive design system stays coherent across many components.",
+    "reusable_lesson": "Fast shipping is compatible with good frontend structure when the system is disciplined."
+  },
+  {
+    "name": "Chakra UI",
+    "slug": "chakra-ui",
+    "docs_url": "https://chakra-ui.com/",
+    "repo_url": "https://github.com/chakra-ui/chakra-ui",
+    "bucket": "foundations",
+    "focus": "composable design tokens and layout primitives",
+    "product_type": "component library",
+    "teaches": [
+      "token-driven styling",
+      "layout primitives for clear composition",
+      "stateful components with usable APIs",
+      "accessibility-aware component packaging"
+    ],
+    "inspect": [
+      "packages/react",
+      "apps/www/content/docs",
+      "packages/react/src/components"
+    ],
+    "avoid": [
+      "building everything from generic boxes with no visual point of view",
+      "confusing flexible primitives with finished product design"
+    ],
+    "why_this_matters": "Helpful for learning how token systems and component ergonomics fit together.",
+    "reusable_lesson": "A flexible system is strongest when layout discipline stays tighter than the API surface."
+  },
+  {
+    "name": "Primer React",
+    "slug": "primer-react",
+    "docs_url": "https://primer.style/",
+    "repo_url": "https://github.com/primer/react",
+    "bucket": "systems",
+    "focus": "serious operational product surfaces",
+    "product_type": "enterprise design system",
+    "teaches": [
+      "dense but readable product UI",
+      "navigation and information architecture discipline",
+      "state communication in complex apps",
+      "consistency across large product surfaces"
+    ],
+    "inspect": [
+      "packages/react/src",
+      "packages/react/src/Button",
+      "packages/react/src/DataTable",
+      "contributor-docs"
+    ],
+    "avoid": [
+      "blindly importing enterprise heaviness into lightweight products",
+      "assuming seriousness requires visual dullness"
+    ],
+    "why_this_matters": "A strong source for learning product-system maturity and operational clarity.",
+    "reusable_lesson": "Dense interfaces can still feel premium when hierarchy and consistency are tight."
+  },
+  {
+    "name": "Carbon Design System",
+    "slug": "carbon-design-system",
+    "docs_url": "https://carbondesignsystem.com/",
+    "repo_url": "https://github.com/carbon-design-system/carbon",
+    "bucket": "systems",
+    "focus": "large-scale system thinking",
+    "product_type": "enterprise design system",
+    "teaches": [
+      "token governance",
+      "complex component coverage",
+      "structured documentation habits",
+      "how a design system scales across teams"
+    ],
+    "inspect": [
+      "packages/react",
+      "packages/styles",
+      "packages/icons-react",
+      "packages/website"
+    ],
+    "avoid": [
+      "bringing enterprise weight into simple landing pages",
+      "assuming more components always means better product UX"
+    ],
+    "why_this_matters": "Useful for learning system rigor and large-scale frontend discipline.",
+    "reusable_lesson": "System quality comes from governance and consistency, not sheer component count."
+  },
+  {
+    "name": "Material UI",
+    "slug": "material-ui",
+    "docs_url": "https://mui.com/material-ui/",
+    "repo_url": "https://github.com/mui/material-ui",
+    "bucket": "systems",
+    "focus": "broad component coverage and theming",
+    "product_type": "component library and design system",
+    "teaches": [
+      "theme architecture at scale",
+      "broad component API design",
+      "data-heavy admin surfaces",
+      "how a mature system handles customization"
+    ],
+    "inspect": [
+      "packages/mui-material/src",
+      "packages/mui-system/src",
+      "docs/data/material"
+    ],
+    "avoid": [
+      "leaving the UI looking like untouched defaults",
+      "using design-system breadth as a substitute for product judgment"
+    ],
+    "why_this_matters": "A useful reference for large component coverage, theming depth, and admin-heavy interfaces.",
+    "reusable_lesson": "A broad system is only premium when the product team shapes it intentionally."
+  },
+  {
+    "name": "Vercel AI Chatbot",
+    "slug": "vercel-ai-chatbot",
+    "docs_url": "https://ai-sdk.dev/elements/overview",
+    "repo_url": "https://github.com/vercel/ai-chatbot",
+    "bucket": "ai-interfaces",
+    "focus": "AI-native product patterns",
+    "product_type": "AI example app",
+    "teaches": [
+      "chat layout composition",
+      "streaming response surfaces",
+      "AI workspace framing",
+      "how AI features fit into a serious product shell"
+    ],
+    "inspect": [
+      "app",
+      "components",
+      "components/ui",
+      "lib"
+    ],
+    "avoid": [
+      "mistaking AI chat chrome for the whole product experience",
+      "copying AI UI tropes without grounding them in user workflow"
+    ],
+    "why_this_matters": "A practical source for modern AI interaction patterns that feel productized.",
+    "reusable_lesson": "AI interfaces feel stronger when chat is integrated into a real workflow, not floating by itself."
+  },
+  {
+    "name": "assistant-ui",
+    "slug": "assistant-ui",
+    "docs_url": "https://www.assistant-ui.com/docs",
+    "repo_url": "https://github.com/assistant-ui/assistant-ui",
+    "bucket": "ai-interfaces",
+    "focus": "AI chat components and tool-call UX",
+    "product_type": "AI interface library",
+    "teaches": [
+      "message rendering patterns",
+      "tool-call and assistant interaction surfaces",
+      "composable AI chat UI primitives",
+      "how to make AI interactions feel structured instead of messy"
+    ],
+    "inspect": [
+      "packages/react",
+      "packages/react-ui",
+      "apps/docs",
+      "examples"
+    ],
+    "avoid": [
+      "over-designing chat chrome while neglecting the surrounding workflow",
+      "assuming a chat UI library defines the full product strategy"
+    ],
+    "why_this_matters": "Useful for learning the mechanics of serious AI chat interfaces and tool interaction patterns.",
+    "reusable_lesson": "AI UX becomes more credible when messages, actions, and tool output share one consistent system."
+  }
+]

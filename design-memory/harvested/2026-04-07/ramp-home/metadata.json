@@ -1,0 +1,12 @@
+{
+  "slug": "ramp-home",
+  "name": "Ramp Home",
+  "requested_url": "https://ramp.com/",
+  "final_url": "https://ramp.com/",
+  "page_title": "Unknown",
+  "bucket": "love",
+  "category": "website",
+  "fetched_at": "2026-04-07",
+  "fetch_error": "Response status code does not indicate success: 404 (Not Found).",
+  "screenshot_error": null
+}

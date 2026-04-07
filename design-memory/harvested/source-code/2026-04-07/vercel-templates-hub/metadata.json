@@ -1,0 +1,50 @@
+{
+  "name": "Vercel Templates Hub",
+  "slug": "vercel-templates-hub",
+  "generated_at": "2026-04-07T01:03:47.7040429-07:00",
+  "bucket": "templates",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://vercel.com/templates",
+    "title": "Find your Template",
+    "content_length": 449413,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/vercel/examples",
+    "title": "GitHub - vercel/examples: Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications. · GitHub",
+    "content_length": 344860,
+    "error": null
+  },
+  "clone_status": "exists",
+  "manifest_entry": {
+    "name": "Vercel Templates Hub",
+    "slug": "vercel-templates-hub",
+    "docs_url": "https://vercel.com/templates",
+    "repo_url": "https://github.com/vercel/examples",
+    "bucket": "templates",
+    "focus": "official starter discovery across product categories",
+    "product_type": "template hub and examples repo",
+    "teaches": [
+      "how modern starters are categorized by product need",
+      "broad skeletons for AI apps, SaaS, blogs, docs, and dashboards",
+      "what a strong official starter ecosystem looks like",
+      "how to avoid beginning from a weak blank page"
+    ],
+    "inspect": [
+      "template categories by use case",
+      "starter repos linked from the hub",
+      "app-router examples",
+      "dashboard and SaaS starters"
+    ],
+    "avoid": [
+      "treating a starter as the final product direction",
+      "pulling in a template because it is convenient instead of because it fits the business"
+    ],
+    "why_this_matters": "A strong source for choosing better starting points before custom frontend work begins.",
+    "reusable_lesson": "Good starter selection can save time, but only if the structure matches the product job."
+  }
+}

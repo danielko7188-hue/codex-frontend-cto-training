@@ -1,0 +1,50 @@
+{
+  "name": "Radix Primitives",
+  "slug": "radix-primitives",
+  "generated_at": "2026-04-07T00:39:33.8477019-07:00",
+  "bucket": "foundations",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://www.radix-ui.com/",
+    "title": "Radix UI",
+    "content_length": 128254,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/radix-ui/primitives",
+    "title": "GitHub - radix-ui/primitives: Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos. · GitHub",
+    "content_length": 322943,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Radix Primitives",
+    "slug": "radix-primitives",
+    "docs_url": "https://www.radix-ui.com/",
+    "repo_url": "https://github.com/radix-ui/primitives",
+    "bucket": "foundations",
+    "focus": "accessible interaction foundations",
+    "product_type": "headless UI primitives",
+    "teaches": [
+      "keyboard-safe interaction models",
+      "focus management and state handling",
+      "composable primitives for serious product UX",
+      "how strong accessibility infrastructure supports premium UI"
+    ],
+    "inspect": [
+      "packages/react",
+      "packages/react/dialog",
+      "packages/react/dropdown-menu",
+      "packages/react/select"
+    ],
+    "avoid": [
+      "assuming headless primitives provide a visual direction by themselves",
+      "overcomplicating simple product needs with unnecessary abstraction"
+    ],
+    "why_this_matters": "A strong way to learn the interaction discipline behind polished interfaces.",
+    "reusable_lesson": "Premium-feeling UI still needs rigorous keyboard, focus, and state behavior underneath."
+  }
+}

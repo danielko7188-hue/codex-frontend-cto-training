@@ -1,0 +1,50 @@
+{
+  "name": "Vercel Admin Dashboard Template",
+  "slug": "vercel-admin-dashboard-template",
+  "generated_at": "2026-04-07T01:03:48.8844661-07:00",
+  "bucket": "templates",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://vercel.com/templates/next.js/admin-dashboard",
+    "title": "Next.js Admin Dashboard Templates",
+    "content_length": 488989,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template",
+    "title": "GitHub - vercel/nextjs-postgres-nextauth-tailwindcss-template: Admin dashboard template. · GitHub",
+    "content_length": 288266,
+    "error": null
+  },
+  "clone_status": "exists",
+  "manifest_entry": {
+    "name": "Vercel Admin Dashboard Template",
+    "slug": "vercel-admin-dashboard-template",
+    "docs_url": "https://vercel.com/templates/next.js/admin-dashboard",
+    "repo_url": "https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template",
+    "bucket": "templates",
+    "focus": "authenticated dashboard structure",
+    "product_type": "admin dashboard starter",
+    "teaches": [
+      "dashboard shell composition",
+      "auth plus data-aware starter structure",
+      "navigation, cards, tables, and KPI surface patterns",
+      "how to start a serious internal app without inventing every screen from zero"
+    ],
+    "inspect": [
+      "app routing",
+      "dashboard shell and navigation",
+      "table and card sections",
+      "shared UI primitives"
+    ],
+    "avoid": [
+      "shipping the starter look untouched",
+      "forcing a dashboard shell onto products that are really marketing-first"
+    ],
+    "why_this_matters": "A practical official starter for operational product surfaces and admin-heavy apps.",
+    "reusable_lesson": "A useful dashboard starter should save structure work while still leaving room for product-specific hierarchy."
+  }
+}

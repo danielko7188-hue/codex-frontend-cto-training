@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Vercel Templates Hub",
+    "slug": "vercel-templates-hub",
+    "docs_url": "https://vercel.com/templates",
+    "repo_url": "https://github.com/vercel/examples",
+    "bucket": "templates",
+    "focus": "official starter discovery across product categories",
+    "product_type": "template hub and examples repo",
+    "teaches": [
+      "how modern starters are categorized by product need",
+      "broad skeletons for AI apps, SaaS, blogs, docs, and dashboards",
+      "what a strong official starter ecosystem looks like",
+      "how to avoid beginning from a weak blank page"
+    ],
+    "inspect": [
+      "template categories by use case",
+      "starter repos linked from the hub",
+      "app-router examples",
+      "dashboard and SaaS starters"
+    ],
+    "avoid": [
+      "treating a starter as the final product direction",
+      "pulling in a template because it is convenient instead of because it fits the business"
+    ],
+    "why_this_matters": "A strong source for choosing better starting points before custom frontend work begins.",
+    "reusable_lesson": "Good starter selection can save time, but only if the structure matches the product job."
+  },
+  {
+    "name": "Vercel Admin Dashboard Template",
+    "slug": "vercel-admin-dashboard-template",
+    "docs_url": "https://vercel.com/templates/next.js/admin-dashboard",
+    "repo_url": "https://github.com/vercel/nextjs-postgres-nextauth-tailwindcss-template",
+    "bucket": "templates",
+    "focus": "authenticated dashboard structure",
+    "product_type": "admin dashboard starter",
+    "teaches": [
+      "dashboard shell composition",
+      "auth plus data-aware starter structure",
+      "navigation, cards, tables, and KPI surface patterns",
+      "how to start a serious internal app without inventing every screen from zero"
+    ],
+    "inspect": [
+      "app routing",
+      "dashboard shell and navigation",
+      "table and card sections",
+      "shared UI primitives"
+    ],
+    "avoid": [
+      "shipping the starter look untouched",
+      "forcing a dashboard shell onto products that are really marketing-first"
+    ],
+    "why_this_matters": "A practical official starter for operational product surfaces and admin-heavy apps.",
+    "reusable_lesson": "A useful dashboard starter should save structure work while still leaving room for product-specific hierarchy."
+  },
+  {
+    "name": "Next.js SaaS Starter",
+    "slug": "nextjs-saas-starter",
+    "docs_url": "https://vercel.com/new/vercel/templates/next.js/next-js-saas-starter",
+    "repo_url": "https://github.com/nextjs/saas-starter",
+    "bucket": "templates",
+    "focus": "modern SaaS product skeleton",
+    "product_type": "SaaS starter kit",
+    "teaches": [
+      "how a serious SaaS starter organizes public and authenticated surfaces",
+      "billing, auth, and product shell boundaries",
+      "good default route structure for a real software business",
+      "how to begin with production-oriented scaffolding instead of toy structure"
+    ],
+    "inspect": [
+      "app structure",
+      "marketing versus app surfaces",
+      "dashboard routes",
+      "shared components and styles"
+    ],
+    "avoid": [
+      "assuming starter business logic equals your product strategy",
+      "keeping generic SaaS copy or layout choices after the initial setup"
+    ],
+    "why_this_matters": "Useful when a project needs a real SaaS foundation instead of an isolated page or demo.",
+    "reusable_lesson": "A good SaaS starter reduces setup drag, but the product still needs its own point of view."
+  },
+  {
+    "name": "Next.js Official Examples",
+    "slug": "nextjs-official-examples",
+    "docs_url": "https://nextjs.org/docs/app/api-reference/cli/create-next-app",
+    "repo_url": "https://github.com/vercel/next.js/tree/canary/examples",
+    "bucket": "templates",
+    "focus": "official pattern breadth",
+    "product_type": "framework examples collection",
+    "teaches": [
+      "many ways official Next.js features are structured",
+      "reference implementations for common framework patterns",
+      "starter breadth across routing, content, auth, and integrations",
+      "how to inspect framework-native examples before custom implementation"
+    ],
+    "inspect": [
+      "examples folder",
+      "blog starters",
+      "docs starters",
+      "radix-ui and app-router examples"
+    ],
+    "avoid": [
+      "reading every example instead of picking the ones relevant to the task",
+      "mistaking framework examples for finished product design"
+    ],
+    "why_this_matters": "A broad official reference bank for framework-native implementation patterns.",
+    "reusable_lesson": "Examples are strongest when used as focused pattern references, not as a giant pile to imitate."
+  },
+  {
+    "name": "Mantine Next App Template",
+    "slug": "mantine-next-app-template",
+    "docs_url": "https://mantine.dev/getting-started/",
+    "repo_url": "https://github.com/mantinedev/next-app-template",
+    "bucket": "templates",
+    "focus": "clean React and Next.js starter ergonomics",
+    "product_type": "Next.js app template",
+    "teaches": [
+      "clean starter structure for React and Next.js projects",
+      "Mantine theme wiring and styling ergonomics",
+      "maintainable defaults for teams moving quickly",
+      "how to start polished without overcomplicating the stack"
+    ],
+    "inspect": [
+      "theme setup",
+      "layout files",
+      "global styles",
+      "starter route structure"
+    ],
+    "avoid": [
+      "letting starter defaults define the entire product personality",
+      "keeping framework-demo aesthetics instead of shaping the interface intentionally"
+    ],
+    "why_this_matters": "A clean starter for products that want strong ergonomics and calm defaults.",
+    "reusable_lesson": "A simple starter is powerful when it stays easy to reshape into a product with real taste."
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "slug": "apps-in-chatgpt",
+  "name": "Apps in ChatGPT",
+  "requested_url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+  "final_url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+  "page_title": "Unknown",
+  "bucket": "neutral",
+  "category": "ai",
+  "fetched_at": "2026-04-07",
+  "fetch_error": "Response status code does not indicate success: 403 (Forbidden).",
+  "screenshot_error": null
+}

@@ -1,0 +1,12 @@
+{
+  "slug": "chatgpt-overview",
+  "name": "ChatGPT Overview",
+  "requested_url": "https://chatgpt.com/overview",
+  "final_url": "https://chatgpt.com/overview",
+  "page_title": "Unknown",
+  "bucket": "love",
+  "category": "ai",
+  "fetched_at": "2026-04-07",
+  "fetch_error": "Response status code does not indicate success: 403 (Forbidden).",
+  "screenshot_error": null
+}

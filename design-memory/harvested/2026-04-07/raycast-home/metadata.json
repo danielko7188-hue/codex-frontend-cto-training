@@ -1,0 +1,12 @@
+{
+  "slug": "raycast-home",
+  "name": "Raycast Home",
+  "requested_url": "https://www.raycast.com/",
+  "final_url": "https://www.raycast.com/",
+  "page_title": "Raycast - Your shortcut to everything",
+  "bucket": "love",
+  "category": "website",
+  "fetched_at": "2026-04-07",
+  "fetch_error": null,
+  "screenshot_error": null
+}

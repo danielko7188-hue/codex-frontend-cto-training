@@ -1,0 +1,131 @@
+[
+  {
+    "name": "Vercel AI Chatbot",
+    "slug": "vercel-ai-chatbot",
+    "docs_url": "https://ai-sdk.dev/elements/overview",
+    "repo_url": "https://github.com/vercel/ai-chatbot",
+    "bucket": "ai-interfaces",
+    "focus": "AI workspace and chat product patterns",
+    "product_type": "AI example app",
+    "teaches": [
+      "chat layout composition for real products",
+      "streaming response surfaces",
+      "AI workspace framing",
+      "how to integrate AI into a serious product shell"
+    ],
+    "inspect": [
+      "app",
+      "components",
+      "components/ui",
+      "lib"
+    ],
+    "avoid": [
+      "mistaking chat chrome for the whole workflow",
+      "copying AI aesthetics without matching the product job"
+    ],
+    "why_this_matters": "A practical official source for AI product UI that feels productized instead of prototype-like.",
+    "reusable_lesson": "AI chat works best when tied to a visible workflow and artifact surface."
+  },
+  {
+    "name": "assistant-ui",
+    "slug": "assistant-ui",
+    "docs_url": "https://www.assistant-ui.com/docs",
+    "repo_url": "https://github.com/assistant-ui/assistant-ui",
+    "bucket": "ai-interfaces",
+    "focus": "tool-call UX and structured AI chat",
+    "product_type": "AI interface library",
+    "teaches": [
+      "message rendering patterns",
+      "tool-call and assistant interaction surfaces",
+      "state management for AI chat",
+      "how to make AI interactions feel structured and enterprise-grade"
+    ],
+    "inspect": [
+      "packages/react",
+      "packages/react-ui",
+      "apps/docs",
+      "examples"
+    ],
+    "avoid": [
+      "over-designing chat UI while neglecting the surrounding product",
+      "assuming a chat library defines the full UX strategy"
+    ],
+    "why_this_matters": "Strong source for the mechanics of serious AI chat and tool interaction patterns.",
+    "reusable_lesson": "AI credibility increases when messages, tools, and outputs belong to one coherent system."
+  },
+  {
+    "name": "OpenAI Apps in ChatGPT",
+    "slug": "openai-apps-in-chatgpt",
+    "docs_url": "https://openai.com/index/introducing-apps-in-chatgpt/",
+    "repo_url": "",
+    "bucket": "ai-interfaces",
+    "focus": "natural language plus interactive interfaces",
+    "product_type": "AI platform product announcement",
+    "teaches": [
+      "how apps can fit naturally into conversation",
+      "how AI products mix natural language and interactive UI",
+      "how ecosystems and extensible AI surfaces should be framed"
+    ],
+    "inspect": [
+      "platform framing",
+      "interaction model description",
+      "how conversational UI and interfaces are combined"
+    ],
+    "avoid": [
+      "treating announcement pages as complete UI systems",
+      "forcing every AI feature into a marketplace model"
+    ],
+    "why_this_matters": "Useful for understanding AI product UX that combines conversation with interactive interfaces.",
+    "reusable_lesson": "Conversation gets stronger when real interfaces appear at the right moments instead of everything staying as text."
+  },
+  {
+    "name": "OpenAI Codex",
+    "slug": "openai-codex-product",
+    "docs_url": "https://openai.com/codex",
+    "repo_url": "",
+    "bucket": "ai-interfaces",
+    "focus": "agent workflows and parallel task UX",
+    "product_type": "AI developer tool product page",
+    "teaches": [
+      "agent workflow framing",
+      "builder-facing AI product positioning",
+      "how to explain multi-step AI work clearly"
+    ],
+    "inspect": [
+      "workflow framing",
+      "task surface language",
+      "builder audience clarity"
+    ],
+    "avoid": [
+      "using overly technical framing for general audiences",
+      "hiding agent behavior behind abstract marketing copy"
+    ],
+    "why_this_matters": "Useful when designing AI products that behave more like workers than chatbots.",
+    "reusable_lesson": "Agent UX should explain workflow and outputs clearly, not just the intelligence behind them."
+  },
+  {
+    "name": "Claude Code",
+    "slug": "claude-code-product",
+    "docs_url": "https://www.anthropic.com/product/claude-code",
+    "repo_url": "",
+    "bucket": "ai-interfaces",
+    "focus": "developer-facing AI workflow UX",
+    "product_type": "AI coding tool product page",
+    "teaches": [
+      "developer-tool workflow framing",
+      "how to keep AI coding products task-oriented",
+      "serious tone and control-oriented positioning"
+    ],
+    "inspect": [
+      "workflow explanation",
+      "developer audience cues",
+      "task framing and trust language"
+    ],
+    "avoid": [
+      "making AI coding products feel magical but opaque",
+      "using too much concept and too little workflow clarity"
+    ],
+    "why_this_matters": "Useful for AI tools where trust, control, and task clarity matter more than decorative UI.",
+    "reusable_lesson": "AI power feels more trustworthy when the workflow is concrete and inspectable."
+  }
+]

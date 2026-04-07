@@ -1,0 +1,49 @@
+{
+  "name": "Chakra UI",
+  "slug": "chakra-ui",
+  "generated_at": "2026-04-07T00:39:34.9458434-07:00",
+  "bucket": "foundations",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://chakra-ui.com/",
+    "title": "Chakra UI",
+    "content_length": 839929,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/chakra-ui/chakra-ui",
+    "title": "GitHub - chakra-ui/chakra-ui: Chakra UI is a component system for building SaaS products with speed ⚡️ · GitHub",
+    "content_length": 387846,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Chakra UI",
+    "slug": "chakra-ui",
+    "docs_url": "https://chakra-ui.com/",
+    "repo_url": "https://github.com/chakra-ui/chakra-ui",
+    "bucket": "foundations",
+    "focus": "composable design tokens and layout primitives",
+    "product_type": "component library",
+    "teaches": [
+      "token-driven styling",
+      "layout primitives for clear composition",
+      "stateful components with usable APIs",
+      "accessibility-aware component packaging"
+    ],
+    "inspect": [
+      "packages/react",
+      "apps/www/content/docs",
+      "packages/react/src/components"
+    ],
+    "avoid": [
+      "building everything from generic boxes with no visual point of view",
+      "confusing flexible primitives with finished product design"
+    ],
+    "why_this_matters": "Helpful for learning how token systems and component ergonomics fit together.",
+    "reusable_lesson": "A flexible system is strongest when layout discipline stays tighter than the API surface."
+  }
+}

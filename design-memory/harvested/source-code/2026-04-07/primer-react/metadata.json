@@ -1,0 +1,50 @@
+{
+  "name": "Primer React",
+  "slug": "primer-react",
+  "generated_at": "2026-04-07T00:39:35.5711467-07:00",
+  "bucket": "systems",
+  "docs": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://primer.style/",
+    "title": "Primer",
+    "content_length": 201295,
+    "error": null
+  },
+  "repo": {
+    "ok": true,
+    "status": "ok",
+    "final_url": "https://github.com/primer/react",
+    "title": "GitHub - primer/react: An implementation of GitHub&#39;s Primer Design System using React · GitHub",
+    "content_length": 331240,
+    "error": null
+  },
+  "clone_status": "skipped",
+  "manifest_entry": {
+    "name": "Primer React",
+    "slug": "primer-react",
+    "docs_url": "https://primer.style/",
+    "repo_url": "https://github.com/primer/react",
+    "bucket": "systems",
+    "focus": "serious operational product surfaces",
+    "product_type": "enterprise design system",
+    "teaches": [
+      "dense but readable product UI",
+      "navigation and information architecture discipline",
+      "state communication in complex apps",
+      "consistency across large product surfaces"
+    ],
+    "inspect": [
+      "packages/react/src",
+      "packages/react/src/Button",
+      "packages/react/src/DataTable",
+      "contributor-docs"
+    ],
+    "avoid": [
+      "blindly importing enterprise heaviness into lightweight products",
+      "assuming seriousness requires visual dullness"
+    ],
+    "why_this_matters": "A strong source for learning product-system maturity and operational clarity.",
+    "reusable_lesson": "Dense interfaces can still feel premium when hierarchy and consistency are tight."
+  }
+}

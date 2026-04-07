@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Vercel AI Chatbot",
+    "slug": "vercel-ai-chatbot",
+    "bucket": "ai-interfaces",
+    "docs_ok": true,
+    "repo_ok": true,
+    "clone_status": "exists",
+    "entry_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\ai-interfaces\\vercel-ai-chatbot.md",
+    "metadata_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\source-code\\2026-04-07\\vercel-ai-chatbot\\metadata.json"
+  },
+  {
+    "name": "assistant-ui",
+    "slug": "assistant-ui",
+    "bucket": "ai-interfaces",
+    "docs_ok": true,
+    "repo_ok": true,
+    "clone_status": "exists",
+    "entry_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\ai-interfaces\\assistant-ui.md",
+    "metadata_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\source-code\\2026-04-07\\assistant-ui\\metadata.json"
+  },
+  {
+    "name": "OpenAI Apps in ChatGPT",
+    "slug": "openai-apps-in-chatgpt",
+    "bucket": "ai-interfaces",
+    "docs_ok": false,
+    "repo_ok": false,
+    "clone_status": "skipped",
+    "entry_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\ai-interfaces\\openai-apps-in-chatgpt.md",
+    "metadata_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\source-code\\2026-04-07\\openai-apps-in-chatgpt\\metadata.json"
+  },
+  {
+    "name": "OpenAI Codex",
+    "slug": "openai-codex-product",
+    "bucket": "ai-interfaces",
+    "docs_ok": false,
+    "repo_ok": false,
+    "clone_status": "skipped",
+    "entry_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\ai-interfaces\\openai-codex-product.md",
+    "metadata_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\source-code\\2026-04-07\\openai-codex-product\\metadata.json"
+  },
+  {
+    "name": "Claude Code",
+    "slug": "claude-code-product",
+    "bucket": "ai-interfaces",
+    "docs_ok": true,
+    "repo_ok": false,
+    "clone_status": "skipped",
+    "entry_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\source-library\\ai-interfaces\\claude-code-product.md",
+    "metadata_path": "C:\\Users\\wsk71.DKO\\Desktop\\Frontend Developer\\design-memory\\harvested\\source-code\\2026-04-07\\claude-code-product\\metadata.json"
+  }
+]
