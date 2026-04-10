@@ -8,12 +8,16 @@ Its job is simple:
 - remember what generic looks like for you
 - study the best open-source UI systems without mistaking code quality for visual taste
 - store reusable design lessons
+- explicitly record where Codex is still weak
+- widen Codex beyond one default premium style
 - make future frontend work better without requiring screenshot hand-holding
 
 ## Structure
 
 - [reference-bank](./reference-bank/README.md)
 - [source-library](./source-library/README.md)
+- [design weakness map](./playbooks/CODEX_DESIGN_WEAKNESS_MAP.md)
+- [design direction selector](./playbooks/DESIGN_DIRECTION_SELECTOR.md)
 - [review-pipeline](./review-pipeline)
 - [ai-product-ux-playbook](./playbooks/AI_PRODUCT_UX_PLAYBOOK.md)
 - [project-reviews](./project-reviews)
@@ -37,6 +41,7 @@ Its job is simple:
 - references you dislike
 - neutral references that are useful but not taste-defining
 - curated source-code systems that teach component architecture, accessibility, theming, and AI UI patterns
+- style lanes that widen design flexibility across different product types
 - reusable AI product UX guidance for chat, copilot, workflow, and agent surfaces
 - project-specific review notes
 - reusable frontend playbooks
@@ -52,6 +57,8 @@ Its job is simple:
 
 - [reference-bank](C:/Users/wsk71.DKO/Desktop/Frontend%20Developer/design-memory/reference-bank) is for visual judgment, product taste, section pacing, proof, hierarchy, and what feels premium or generic.
 - [source-library](C:/Users/wsk71.DKO/Desktop/Frontend%20Developer/design-memory/source-library) is for code-system learning: accessible primitives, tokens, component APIs, theming, app shells, AI chat layouts, forms, and data display.
+- [CODEX_DESIGN_WEAKNESS_MAP.md](C:/Users/wsk71.DKO/Desktop/Frontend%20Developer/design-memory/playbooks/CODEX_DESIGN_WEAKNESS_MAP.md) is for failure-mode correction: the recurring mistakes Codex should actively guard against.
+- [STYLE_SPECTRUM_2026-04-07.md](C:/Users/wsk71.DKO/Desktop/Frontend%20Developer/design-memory/source-library/STYLE_SPECTRUM_2026-04-07.md) is for style flexibility: choosing the right visual lane instead of defaulting to one look.
 
 Use both. Do not confuse them.
 
@@ -72,3 +79,4 @@ Every entry should answer at least one of these:
 
 - [CURATED_SET_2026-04-07.md](./reference-bank/CURATED_SET_2026-04-07.md)
 - [CURATED_CODE_SET_2026-04-07.md](./source-library/CURATED_CODE_SET_2026-04-07.md)
+- [STYLE_SPECTRUM_2026-04-07.md](./source-library/STYLE_SPECTRUM_2026-04-07.md)

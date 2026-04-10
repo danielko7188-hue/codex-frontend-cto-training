@@ -10,6 +10,7 @@ Its job is to help Codex learn from strong open-source UI systems and product-gr
 - maintained open-source component libraries
 - product-grade example apps
 - AI interface repos that teach chat, tool-call, and workspace patterns
+- style-spectrum lanes that widen Codex beyond one default design aesthetic
 - notes on what each source teaches well
 
 ## What this is for
@@ -44,6 +45,7 @@ Every entry should answer:
 - [ai-interfaces](./ai-interfaces)
 - [templates](./templates)
 - [design-md-packs](./design-md-packs)
+- [style-spectrum](./style-spectrum)
 - `clones/` is an optional local cache and is intentionally excluded from this public repo
 
 ## Current curated set
@@ -52,6 +54,14 @@ Every entry should answer:
 - [TEMPLATE_PACK_2026-04-07.md](./TEMPLATE_PACK_2026-04-07.md)
 - [DESIGN_MD_PACKS_2026-04-07.md](./DESIGN_MD_PACKS_2026-04-07.md)
 - [AI_PRODUCT_UX_PACK_2026-04-07.md](./AI_PRODUCT_UX_PACK_2026-04-07.md)
+- [STYLE_SPECTRUM_2026-04-07.md](./STYLE_SPECTRUM_2026-04-07.md)
+- [STYLE_SPECTRUM_REFERENCE_PACK_2026-04-07.md](./STYLE_SPECTRUM_REFERENCE_PACK_2026-04-07.md)
+- [BUSINESS_TYPE_REFERENCE_PACK_2026-04-07.md](./BUSINESS_TYPE_REFERENCE_PACK_2026-04-07.md)
+- [SCREEN_TYPE_REFERENCE_PACK_2026-04-07.md](./SCREEN_TYPE_REFERENCE_PACK_2026-04-07.md)
+- [PATTERN_REFERENCE_PACK_2026-04-07.md](./PATTERN_REFERENCE_PACK_2026-04-07.md)
+- [FAILURE_PATTERN_PACK_2026-04-07.md](./FAILURE_PATTERN_PACK_2026-04-07.md)
+- [COPY_MESSAGING_PACK_2026-04-07.md](./COPY_MESSAGING_PACK_2026-04-07.md)
+- [MOTION_INTERACTION_PACK_2026-04-07.md](./MOTION_INTERACTION_PACK_2026-04-07.md)
 
 ## Ingestion workflow
 
@@ -74,5 +84,13 @@ Start with the parts that usually teach the most:
 - examples or templates
 - AI chat or message rendering surfaces
 - DESIGN.md packs when you need an agent-readable style system derived from strong products
+- style lanes when the main problem is design range and art-direction flexibility rather than code craft alone
+- the style-spectrum reference pack when a lane needs stronger real-world anchors before implementation
+- the business-type reference pack when product category fit matters more than pure aesthetic exploration
+- the screen-type reference pack when the main question is how a specific surface should be structured
+- the pattern reference pack when a section or component keeps coming out generic or weak
+- the failure-pattern pack when you need to catch recurring bad outcomes before calling the design done
+- the copy-and-messaging pack when the visuals are acceptable but the words still feel vague, weak, or low-trust
+- the motion-and-interaction pack when the UI needs better feedback, loading states, or clearer behavior during change
 
 When a new product needs a strong starting structure, inspect the `templates` bucket before improvising the page or app shell from scratch.

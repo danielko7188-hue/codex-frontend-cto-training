@@ -1,0 +1,44 @@
+{
+  "id": "style-spectrum-reference-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Strengthen Codex design flexibility with lane-specific live references beyond premium minimal SaaS.",
+  "packFile": "source-library/STYLE_SPECTRUM_REFERENCE_PACK_2026-04-07.md",
+  "references": [
+    {
+      "name": "Cloudflare",
+      "url": "https://www.cloudflare.com/",
+      "entry": "reference-bank/love/cloudflare-home.md",
+      "lanes": ["enterprise-trust", "technical-industrial", "operator-density"]
+    },
+    {
+      "name": "Flexport",
+      "url": "https://www.flexport.com/eu/",
+      "entry": "reference-bank/love/flexport-home.md",
+      "lanes": ["technical-industrial"]
+    },
+    {
+      "name": "Notion Sites",
+      "url": "https://www.notion.com/product/sites",
+      "entry": "reference-bank/love/notion-sites.md",
+      "lanes": ["minimalist-premium", "editorial-luxury", "warm-service"]
+    },
+    {
+      "name": "Retool",
+      "url": "https://retool.com/",
+      "entry": "reference-bank/love/retool-home.md",
+      "lanes": ["operator-density", "technical-industrial", "calm-ai-workspace"]
+    },
+    {
+      "name": "ServiceTitan",
+      "url": "https://www.servicetitan.com/",
+      "entry": "reference-bank/love/servicetitan-home.md",
+      "lanes": ["warm-service", "enterprise-trust", "technical-industrial"]
+    },
+    {
+      "name": "Superhuman",
+      "url": "https://superhuman.com/",
+      "entry": "reference-bank/love/superhuman-home.md",
+      "lanes": ["bold-launch", "calm-ai-workspace"]
+    }
+  ]
+}

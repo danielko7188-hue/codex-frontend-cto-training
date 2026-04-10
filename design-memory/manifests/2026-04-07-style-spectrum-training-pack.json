@@ -1,0 +1,47 @@
+{
+  "id": "style-spectrum-training-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Expand Codex design flexibility beyond a single premium-minimal default.",
+  "lanes": [
+    {
+      "slug": "minimalist-premium",
+      "file": "source-library/style-spectrum/minimalist-premium.md",
+      "bestFor": ["premium marketing", "founder SaaS", "trust-first products"]
+    },
+    {
+      "slug": "enterprise-trust",
+      "file": "source-library/style-spectrum/enterprise-trust.md",
+      "bestFor": ["B2B operations", "compliance", "workflow products"]
+    },
+    {
+      "slug": "editorial-luxury",
+      "file": "source-library/style-spectrum/editorial-luxury.md",
+      "bestFor": ["brand storytelling", "high-perception products"]
+    },
+    {
+      "slug": "technical-industrial",
+      "file": "source-library/style-spectrum/technical-industrial.md",
+      "bestFor": ["manufacturing", "logistics", "infrastructure"]
+    },
+    {
+      "slug": "warm-service",
+      "file": "source-library/style-spectrum/warm-service.md",
+      "bestFor": ["services", "relationship-heavy businesses", "lead-gen"]
+    },
+    {
+      "slug": "bold-launch",
+      "file": "source-library/style-spectrum/bold-launch.md",
+      "bestFor": ["launches", "campaigns", "attention-first products"]
+    },
+    {
+      "slug": "calm-ai-workspace",
+      "file": "source-library/style-spectrum/calm-ai-workspace.md",
+      "bestFor": ["AI workspaces", "copilots", "agent products"]
+    },
+    {
+      "slug": "operator-density",
+      "file": "source-library/style-spectrum/operator-density.md",
+      "bestFor": ["internal tools", "ops dashboards", "power-user workflows"]
+    }
+  ]
+}

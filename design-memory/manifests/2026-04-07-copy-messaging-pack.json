@@ -1,0 +1,18 @@
+{
+  "id": "copy-messaging-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Teach Codex to choose stronger messaging patterns for critical UI copy jobs so designs feel specific, credible, and high-trust.",
+  "packFile": "source-library/COPY_MESSAGING_PACK_2026-04-07.md",
+  "copyJobs": [
+    "hero-headline",
+    "hero-subhead",
+    "proof-copy",
+    "cta-language",
+    "pricing-labels",
+    "form-microcopy",
+    "empty-state-copy",
+    "settings-helper-copy",
+    "ai-trust-language",
+    "approval-and-risk-copy"
+  ]
+}

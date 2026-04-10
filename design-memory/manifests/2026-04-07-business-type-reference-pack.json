@@ -1,0 +1,49 @@
+{
+  "id": "business-type-reference-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Match design references to product categories so Codex can choose references by business type, not only by style lane.",
+  "packFile": "source-library/BUSINESS_TYPE_REFERENCE_PACK_2026-04-07.md",
+  "businessTypes": [
+    {
+      "slug": "fintech",
+      "references": [
+        "reference-bank/love/mercury.md",
+        "reference-bank/love/ramp-home.md",
+        "reference-bank/love/stripe-home.md"
+      ]
+    },
+    {
+      "slug": "healthcare",
+      "references": [
+        "reference-bank/love/one-medical-home.md",
+        "reference-bank/love/apple-design.md",
+        "reference-bank/love/notion-sites.md"
+      ]
+    },
+    {
+      "slug": "marketplaces",
+      "references": [
+        "reference-bank/love/faire-home.md",
+        "reference-bank/love/airbnb-host-homes.md"
+      ]
+    },
+    {
+      "slug": "local-services",
+      "references": [
+        "reference-bank/love/servicetitan-home.md",
+        "reference-bank/love/notion-sites.md",
+        "reference-bank/love/mercury.md"
+      ]
+    },
+    {
+      "slug": "ai-dashboards",
+      "references": [
+        "reference-bank/love/retool-home.md",
+        "reference-bank/love/claude-code.md",
+        "reference-bank/love/chatgpt-overview.md",
+        "reference-bank/love/openai-codex.md",
+        "reference-bank/love/notion-ai.md"
+      ]
+    }
+  ]
+}

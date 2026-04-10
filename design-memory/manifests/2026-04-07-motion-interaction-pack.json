@@ -1,0 +1,19 @@
+{
+  "id": "motion-interaction-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Teach Codex to choose stronger motion and interaction patterns for transitions, loading, feedback, progressive disclosure, and AI activity states.",
+  "packFile": "source-library/MOTION_INTERACTION_PACK_2026-04-07.md",
+  "interactionJobs": [
+    "page-load-reveal",
+    "hover-and-focus-feedback",
+    "cta-submit-feedback",
+    "form-validation-and-recovery",
+    "loading-and-skeleton-state",
+    "empty-to-filled-transition",
+    "progressive-disclosure",
+    "drawer-side-panel-modal-transition",
+    "ai-activity-feedback",
+    "streaming-partial-output-reveal",
+    "success-undo-feedback"
+  ]
+}

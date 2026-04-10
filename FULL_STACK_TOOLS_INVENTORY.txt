@@ -1,0 +1,258 @@
+FULL-STACK TOOLS INVENTORY
+Snapshot Date: 2026-04-09
+Machine: Windows + PowerShell + WSL2
+
+==================================================
+1. INSTALLED NOW
+==================================================
+
+- Codex CLI
+- PowerShell 7
+- Python
+- Python Launcher (py)
+- Node.js
+- npm
+- npx
+- Git
+- Bun
+- Docker
+- VS Code
+- WSL2
+- Ubuntu 24.04
+- ripgrep (rg)
+- GitHub CLI (gh)
+- uv
+- pnpm
+- CMake
+- Visual Studio Build Tools
+- C++ compiler (cl.exe)
+- Scoop
+- Supabase CLI
+
+
+==================================================
+2. MISSING NOW
+==================================================
+
+- yarn
+- Visual Studio
+- make
+
+
+==================================================
+3. CORE DEV TOOLS
+==================================================
+
+- Codex CLI
+- VS Code
+- PowerShell
+- WSL2
+- Ubuntu
+
+
+==================================================
+4. VERSION CONTROL TOOLS
+==================================================
+
+- Git
+- GitHub CLI (gh)
+- GitLab CLI (glab) - optional
+
+
+==================================================
+5. JAVASCRIPT / FRONTEND RUNTIME TOOLS
+==================================================
+
+- Node.js
+- npm
+- npx
+- pnpm
+- yarn
+- Bun
+
+
+==================================================
+6. PYTHON / AI / AUTOMATION TOOLS
+==================================================
+
+- Python
+- Python Launcher (py)
+- pip
+- venv
+- uv
+- Supabase CLI
+- pipx - optional
+- Jupyter - optional
+
+
+==================================================
+7. NATIVE BUILD / WINDOWS COMPATIBILITY TOOLS
+==================================================
+
+- CMake
+- Visual Studio Build Tools
+- MSVC / cl.exe
+- Windows SDK
+- make
+- gcc / g++ - optional
+
+
+==================================================
+8. CONTAINERS / LOCAL SERVICES
+==================================================
+
+- Docker
+- Docker Compose
+- Docker WSL integration
+
+
+==================================================
+9. FAST TERMINAL UTILITIES
+==================================================
+
+- ripgrep (rg)
+- fd - optional
+- fzf - optional
+- jq - optional
+- bat - optional
+- curl
+- wget - optional
+
+
+==================================================
+10. FRONTEND APP TOOLS
+==================================================
+
+- React
+- Next.js
+- Vite
+- TypeScript
+- Tailwind CSS
+- ESLint
+- Prettier
+
+
+==================================================
+11. BACKEND APP TOOLS
+==================================================
+
+- Express
+- Fastify
+- NestJS
+- Flask
+- FastAPI
+- Django
+
+
+==================================================
+12. DATABASE TOOLS
+==================================================
+
+- PostgreSQL
+- MySQL
+- SQLite
+- Redis
+- Prisma
+- Drizzle
+- DBeaver - optional
+- TablePlus - optional
+
+
+==================================================
+13. API TESTING / DEBUGGING TOOLS
+==================================================
+
+- Postman
+- Insomnia
+- Bruno
+- curl
+- jq
+
+
+==================================================
+14. TESTING / QA TOOLS
+==================================================
+
+- Playwright
+- Cypress
+- Vitest
+- Jest
+- Pytest
+
+
+==================================================
+15. QUALITY / LINT / FORMAT TOOLS
+==================================================
+
+- ESLint
+- Prettier
+- TypeScript compiler (tsc)
+- Ruff
+- Black
+- isort
+- mypy
+
+
+==================================================
+16. CLOUD / DEPLOY / OPS TOOLS
+==================================================
+
+- Vercel CLI
+- Netlify CLI
+- Firebase CLI
+- Supabase CLI
+- AWS CLI
+- Docker
+- GitHub Actions
+
+
+==================================================
+17. HELPFUL EXTRA TOOLS
+==================================================
+
+- Chrome
+- VS Code extensions
+- Figma
+- Notion
+- Obsidian - optional
+
+
+==================================================
+18. MOST IMPORTANT TOOLS FOR THIS MACHINE
+==================================================
+
+Already have:
+- Codex CLI
+- VS Code
+- PowerShell
+- Git
+- Node.js
+- npm
+- Python
+- Docker
+- WSL2
+- ripgrep
+- GitHub CLI (gh)
+- pnpm
+- uv
+- CMake
+- Visual Studio Build Tools
+- Supabase CLI
+
+Best next installs:
+- yarn
+- make
+
+
+==================================================
+19. SIMPLE SUMMARY
+==================================================
+
+You already have the core setup needed to build products with Codex.
+The main missing tools are:
+- yarn
+- Visual Studio
+- make
+
+Those missing tools are mostly quality-of-life and compatibility tools,
+not blockers for getting started.

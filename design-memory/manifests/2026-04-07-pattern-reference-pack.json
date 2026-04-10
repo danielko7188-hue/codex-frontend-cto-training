@@ -1,0 +1,128 @@
+{
+  "id": "pattern-reference-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Match reusable design references to specific section and component jobs so Codex can build stronger UI patterns, not just overall page direction.",
+  "packFile": "source-library/PATTERN_REFERENCE_PACK_2026-04-07.md",
+  "patterns": [
+    {
+      "slug": "hero",
+      "references": [
+        "reference-bank/love/vercel.md",
+        "reference-bank/love/linear.md",
+        "reference-bank/love/servicetitan-home.md"
+      ]
+    },
+    {
+      "slug": "proof-band",
+      "references": [
+        "reference-bank/love/cloudflare-home.md",
+        "reference-bank/love/ramp-home.md",
+        "reference-bank/love/servicetitan-home.md"
+      ]
+    },
+    {
+      "slug": "process-section",
+      "references": [
+        "reference-bank/love/notion-sites.md",
+        "reference-bank/love/airbnb-host-homes.md",
+        "reference-bank/love/one-medical-home.md"
+      ]
+    },
+    {
+      "slug": "case-study",
+      "references": [
+        "reference-bank/love/servicetitan-home.md",
+        "reference-bank/love/mercury.md",
+        "reference-bank/love/ramp-home.md"
+      ]
+    },
+    {
+      "slug": "comparison-table",
+      "references": [
+        "reference-bank/love/stripe-home.md",
+        "reference-bank/love/notion-home.md",
+        "reference-bank/love/shopify-polaris.md"
+      ]
+    },
+    {
+      "slug": "dashboard-shell",
+      "references": [
+        "reference-bank/love/retool-home.md",
+        "reference-bank/love/cal-teams.md",
+        "reference-bank/love/intercom-inbox.md"
+      ]
+    },
+    {
+      "slug": "sidebar-nav",
+      "references": [
+        "reference-bank/love/claude-code.md",
+        "reference-bank/love/shopify-polaris.md",
+        "reference-bank/love/cloudflare-home.md"
+      ]
+    },
+    {
+      "slug": "data-table",
+      "references": [
+        "reference-bank/love/cloudflare-home.md",
+        "reference-bank/love/retool-home.md",
+        "reference-bank/love/shopify-polaris.md"
+      ]
+    },
+    {
+      "slug": "empty-state",
+      "references": [
+        "reference-bank/love/notion-home.md",
+        "reference-bank/love/cal-teams.md",
+        "reference-bank/love/intercom-inbox.md"
+      ]
+    },
+    {
+      "slug": "activity-feed",
+      "references": [
+        "reference-bank/love/intercom-inbox.md",
+        "reference-bank/love/cloudflare-home.md",
+        "reference-bank/love/cal-teams.md"
+      ]
+    },
+    {
+      "slug": "chat-composer",
+      "references": [
+        "reference-bank/love/chatgpt-overview.md",
+        "reference-bank/love/claude-code.md",
+        "reference-bank/love/openai-codex.md"
+      ]
+    },
+    {
+      "slug": "tool-result-card",
+      "references": [
+        "reference-bank/love/claude-code.md",
+        "reference-bank/love/retool-home.md",
+        "reference-bank/love/openai-codex.md"
+      ]
+    },
+    {
+      "slug": "approval-panel",
+      "references": [
+        "reference-bank/love/claude-code.md",
+        "reference-bank/love/cloudflare-home.md",
+        "reference-bank/love/retool-home.md"
+      ]
+    },
+    {
+      "slug": "settings-group",
+      "references": [
+        "reference-bank/love/shopify-polaris.md",
+        "reference-bank/love/cloudflare-home.md",
+        "reference-bank/love/mercury.md"
+      ]
+    },
+    {
+      "slug": "lead-form",
+      "references": [
+        "reference-bank/love/servicetitan-home.md",
+        "reference-bank/love/airbnb-host-homes.md",
+        "reference-bank/love/one-medical-home.md"
+      ]
+    }
+  ]
+}

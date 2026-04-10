@@ -1,0 +1,19 @@
+{
+  "id": "failure-pattern-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Teach Codex to recognize and correct recurring bad UX/UI outcomes before designs ship.",
+  "packFile": "source-library/FAILURE_PATTERN_PACK_2026-04-07.md",
+  "failurePatterns": [
+    "card-soup",
+    "empty-premium-hero",
+    "weak-cta",
+    "flat-hierarchy",
+    "bland-premium",
+    "mobile-dead-space",
+    "trustless-conversion",
+    "dashboard-marketing-bleed",
+    "ai-magic-without-control",
+    "fake-proof",
+    "overbuilt-form"
+  ]
+}

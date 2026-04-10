@@ -1,0 +1,72 @@
+{
+  "id": "screen-type-reference-pack-2026-04-07",
+  "createdAt": "2026-04-07",
+  "purpose": "Match design references to screen jobs so Codex can choose stronger structure for each type of interface surface.",
+  "packFile": "source-library/SCREEN_TYPE_REFERENCE_PACK_2026-04-07.md",
+  "screenTypes": [
+    {
+      "slug": "homepage",
+      "references": [
+        "reference-bank/love/vercel.md",
+        "reference-bank/love/linear.md",
+        "reference-bank/love/servicetitan-home.md"
+      ]
+    },
+    {
+      "slug": "pricing",
+      "references": [
+        "reference-bank/love/stripe-home.md",
+        "reference-bank/love/notion-home.md",
+        "reference-bank/love/vercel-home.md"
+      ]
+    },
+    {
+      "slug": "dashboard",
+      "references": [
+        "reference-bank/love/retool-home.md",
+        "reference-bank/love/cal-teams.md",
+        "reference-bank/love/intercom-inbox.md"
+      ]
+    },
+    {
+      "slug": "onboarding",
+      "references": [
+        "reference-bank/love/notion-sites.md",
+        "reference-bank/love/airbnb-host-homes.md",
+        "reference-bank/love/one-medical-home.md"
+      ]
+    },
+    {
+      "slug": "chat",
+      "references": [
+        "reference-bank/love/chatgpt-overview.md",
+        "reference-bank/love/claude-code.md",
+        "reference-bank/love/notion-ai.md"
+      ]
+    },
+    {
+      "slug": "approval-workflow",
+      "references": [
+        "reference-bank/love/claude-code.md",
+        "reference-bank/love/retool-home.md",
+        "reference-bank/love/cloudflare-home.md"
+      ]
+    },
+    {
+      "slug": "settings",
+      "references": [
+        "reference-bank/love/shopify-polaris.md",
+        "reference-bank/love/cloudflare-home.md",
+        "reference-bank/love/cal-teams.md"
+      ]
+    },
+    {
+      "slug": "lead-form",
+      "references": [
+        "reference-bank/love/servicetitan-home.md",
+        "reference-bank/love/airbnb-host-homes.md",
+        "reference-bank/love/one-medical-home.md"
+      ]
+    }
+  ]
+}
